@@ -19,6 +19,17 @@ Skills are demonstrated through projects in:
 
 ---
 
+## 🧭 Domain Case Studies
+- [**Mental Wellness (HypnoNeuro projects)**](https://github.com/Future-Systems-Lab/future-systems-mental-wellness)  
+  This hub links all migrated repos from *Where-Mental-Wellness-Meets-Metaverse*:  
+  - [HypnoNeuroToken](https://github.com/Future-Systems-Lab/HypnoNeuroToken)  
+  - [hypnoneuro-omop-etl](https://github.com/Future-Systems-Lab/hypnoneuro-omop-etl)  
+  - [hypnoneuro-mind-loop](https://github.com/Future-Systems-Lab/hypnoneuro-mind-loop)  
+  - [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth)  
+  - [EncryptHealthToken](https://github.com/Future-Systems-Lab/EncryptHealthToken)  
+
+---
+
 ## 📂 Featured Repositories
 - [**org-inventory-and-showcase**](https://github.com/Future-Systems-Lab/org-inventory-and-showcase) — migration record and portfolio index  
 - [**secure-health-login**](https://github.com/Future-Systems-Lab/secure-health-login) — Sign-In with Ethereum (EIP-712) wallet integration  
