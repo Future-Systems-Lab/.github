@@ -22,7 +22,7 @@ Future Systems Lab showcases applied expertise in decentralized health innovatio
   *Repos: [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) (ecosystem foundation), HypnoNeuro (private), EncryptHealth (private)*  
 
 - **Drug Safety & Pharmacovigilance** — a privacy-preserving pharmacovigilance framework leveraging FAERS and clinical safety data for adverse event analytics, real-world evidence generation, and immutable auditability.  
-  *Repos: (pharmacovigilance case study repository under Future Systems Lab)*  
+Repo: [Gabapentin Pharmacovigilance Case Study](https://github.com/Future-Systems-Lab/gabapentin-pharmacovigilance/blob/main/README.md)  
 
 - **Digital Health Systems** — decentralized identity and authentication frameworks for scalable healthcare access, powered by SIWE, EIP-712 typed data, and MetaMask wallet integration.  
   *Repos: [secure-health-login](https://github.com/Future-Systems-Lab/secure-health-login)*  
