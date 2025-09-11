@@ -24,8 +24,8 @@ Future Systems Lab showcases applied expertise in decentralized health innovatio
 - **Drug Safety & Pharmacovigilance** — a privacy-preserving pharmacovigilance framework leveraging FAERS and clinical safety data for adverse event analytics, real-world evidence generation, and immutable auditability.  
 Repo: [Gabapentin Pharmacovigilance Case Study](https://github.com/Future-Systems-Lab/gabapentin-pharmacovigilance/blob/main/README.md)  
 
-- **Digital Health Systems** — decentralized identity and authentication frameworks for scalable healthcare access, powered by SIWE, EIP-712 typed data, and MetaMask wallet integration.  
-  *Repos: [secure-health-login](https://github.com/Future-Systems-Lab/secure-health-login)*  
+- **Verifiable Credentialing & Consent Interop** — provider credentialing and patient consent using DIDs/VCs with OIDC4VP, mapped to HL7 FHIR. Emphasizes **analytics**, **blockchain**, and **governance** across issuance, verification, and audit events.  
+Repo: private (request access)
 
 ---
 
