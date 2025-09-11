@@ -27,13 +27,13 @@ Skills are demonstrated through projects in:
 
 #### Where-Mental-Wellness-Meets-Metaverse (Future Systems Lab)
 
-- [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — main ecosystem hub  
-  - [HypnoNeuroToken](https://github.com/Future-Systems-Lab/HypnoNeuroToken) — tokenized engagement system  
+- [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — **private repository** (decentralized mental wellness ecosystem, access available on request)  
+  - [HypnoNeuroToken](https://github.com/Future-Systems-Lab/HypnoNeuroToken) — **private repository** (tokenized engagement system, access on request)  
   - [hypnoneuro-omop-etl](https://github.com/Future-Systems-Lab/hypnoneuro-omop-etl) — healthcare data pipeline  
   - [hypnoneuro-mind-loop](https://github.com/Future-Systems-Lab/hypnoneuro-mind-loop) — mental wellness module  
 
-- [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) — privacy-first health data platform  
-  - [EncryptHealthToken](https://github.com/Future-Systems-Lab/EncryptHealthToken)  
+- [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) — **private repository** (privacy-first health data platform, access on request)  
+  - [EncryptHealthToken](https://github.com/Future-Systems-Lab/EncryptHealthToken) — **private repository** (access on request)  
 
 ---
 
@@ -43,5 +43,5 @@ Skills are demonstrated through projects in:
 - [secure-health-login](https://github.com/Future-Systems-Lab/secure-health-login) — Sign-in with Ethereum (EIP-712) wallet integration  
 - [openmrs-core](https://github.com/openmrs/openmrs-core) — contributions to open-source health record systems  
 - [spellbook](https://github.com/duneanalytics/spellbook) — analytics and data modeling resources  
-- [ehrbase](https://github.com/Future-Systems-Lab/ehrbase) — electronic health record platform contributions  
+- [ehrbase](https://github.com/ehrbase/ehrbase) — electronic health record platform contributions  
 - [VITA Token Activity Dashboard](https://dune.com/dr_meg/vita-dashboard) — analytics dashboard for token activity  
