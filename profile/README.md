@@ -5,6 +5,21 @@
 
 ---
 
+---
+
+## 🥼 About Future Systems Lab  
+
+Future Systems Lab is a hub for professional and academic projects bridging:  
+
+- **Digital Health Innovation** — secure login, open standards, healthcare IT  
+- **Analytics** — data pipelines, dashboards, healthcare informatics  
+- **Web3 Development** — smart contracts, decentralized identity, tokenomics  
+- **Cybersecurity & Governance** — HL7/FHIR alignment, compliance frameworks  
+
+Our projects combine applied research, blockchain engineering, and data governance to create scalable, privacy-first systems in healthcare and beyond.  
+
+---
+
 ## 📌 Pinned Case Studies
 - [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) — original ecosystem (concept → deployment)
 - [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — **private** (ecosystem hub)
