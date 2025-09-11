@@ -22,10 +22,10 @@ Skills are demonstrated through projects in:
 
 ### Mental Wellness Ecosystem
 
-- [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Where-Mental-Wellness-Meets-Metaverse)  
+- [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse)  
   Original ecosystem repository containing the vision, documentation, and early builds that framed the HypnoNeuro and EncryptHealth projects.  
 
-#### Migrated Repositories (Future Systems Lab)
+#### Where-Mental-Wellness-Meets-Metaverse (Future Systems Lab)
 
 - [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — main ecosystem hub  
   - [HypnoNeuroToken](https://github.com/Future-Systems-Lab/HypnoNeuroToken) — tokenized engagement system  
@@ -43,5 +43,5 @@ Skills are demonstrated through projects in:
 - [secure-health-login](https://github.com/Future-Systems-Lab/secure-health-login) — Sign-in with Ethereum (EIP-712) wallet integration  
 - [openmrs-core](https://github.com/openmrs/openmrs-core) — contributions to open-source health record systems  
 - [spellbook](https://github.com/duneanalytics/spellbook) — analytics and data modeling resources  
-- [ehrbase](https://github.com/ehrbase/ehrbase) — electronic health record platform contributions  
+- [ehrbase](https://github.com/Future-Systems-Lab/ehrbase) — electronic health record platform contributions  
 - [VITA Token Activity Dashboard](https://dune.com/dr_meg/vita-dashboard) — analytics dashboard for token activity  
