@@ -35,12 +35,23 @@ Skills are demonstrated through projects in:
 
 #### Where-Mental-Wellness-Meets-Metaverse (Future Systems Lab)
 
-- [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — **private repository** (decentralized mental wellness ecosystem, access available on request)  
+- [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — **private repository** (decentralized mental wellness ecosystem, access on request)  
+  - **Contents:** smart contracts (ERC-20/721), OMOP-ETL pipelines, gamified modules, governance docs.  
+  - **Skills Demonstrated:**  
+    - EIP-712 Typed Data  
+    - Sign-In With Ethereum (SIWE)  
+    - Wallet Integration & Upgrade Flow (MetaMask)  
+
   - [HypnoNeuroToken](https://github.com/Future-Systems-Lab/HypnoNeuroToken) — **private repository** (tokenized engagement system, access on request)  
   - [hypnoneuro-omop-etl](https://github.com/Future-Systems-Lab/hypnoneuro-omop-etl) — healthcare data pipeline  
   - [hypnoneuro-mind-loop](https://github.com/Future-Systems-Lab/hypnoneuro-mind-loop) — mental wellness module  
 
 - [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) — **private repository** (privacy-first health data platform, access on request)  
+  - **Contents:** consent workflows, smart contracts, governance/compliance docs.  
+  - **Skills Demonstrated:**  
+    - EIP-712 Typed Data  
+    - Sign-In With Ethereum (SIWE)  
+    - Wallet Integration & Upgrade Flow (MetaMask)  
   - [EncryptHealthToken](https://github.com/Future-Systems-Lab/EncryptHealthToken) — **private repository** (access on request)  
 
 ---
