@@ -3,7 +3,6 @@
 </p>
 <p align="center"><b>Digital Health · Analytics · Web3 · Security</b></p>
 
-
 ---
 
 ## 📌 Pinned Case Studies
