@@ -20,9 +20,20 @@ Skills are demonstrated through projects in:
 
 ## 📂 Domain Case Studies
 
-- **Mental Wellness ([Where-Mental-Wellness-Meets-Metaverse](https://github.com/Where-Mental-Wellness-Meets-Metaverse))**  
-  Case study tracking the full lifecycle from concept through deployment.  
-  Includes the HypnoNeuro ecosystem, EncryptHealth, and related token projects.  
+### Mental Wellness Ecosystem
+
+- [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Where-Mental-Wellness-Meets-Metaverse)  
+  Original ecosystem repository containing the vision, documentation, and early builds that framed the HypnoNeuro and EncryptHealth projects.  
+
+#### Migrated Repositories (Future Systems Lab)
+
+- [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — main ecosystem hub  
+  - [HypnoNeuroToken](https://github.com/Future-Systems-Lab/HypnoNeuroToken) — tokenized engagement system  
+  - [hypnoneuro-omop-etl](https://github.com/Future-Systems-Lab/hypnoneuro-omop-etl) — healthcare data pipeline  
+  - [hypnoneuro-mind-loop](https://github.com/Future-Systems-Lab/hypnoneuro-mind-loop) — mental wellness module  
+
+- [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) — privacy-first health data platform  
+  - [EncryptHealthToken](https://github.com/Future-Systems-Lab/EncryptHealthToken)  
 
 ---
 
