@@ -8,6 +8,14 @@ Future Systems Lab is a hub for professional and academic projects bridging:
 
 ---
 
+## 📌 Pinned Case Studies
+
+- [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) — original ecosystem repository (concept → deployment)  
+- [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — **private repo** (ecosystem hub, access on request)  
+- [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) — **private repo** (health data platform, access on request)  
+
+---
+
 ## 🌱 Applied Domains
 
 Skills are demonstrated through projects in:
@@ -43,5 +51,5 @@ Skills are demonstrated through projects in:
 - [secure-health-login](https://github.com/Future-Systems-Lab/secure-health-login) — Sign-in with Ethereum (EIP-712) wallet integration  
 - [openmrs-core](https://github.com/openmrs/openmrs-core) — contributions to open-source health record systems  
 - [spellbook](https://github.com/duneanalytics/spellbook) — analytics and data modeling resources  
-- [ehrbase](https://github.com/ehrbase/ehrbase) — electronic health record platform contributions  
+- [ehrbase](https://github.com/Future-Systems-Lab/ehrbase) — electronic health record platform contributions  
 - [VITA Token Activity Dashboard](https://dune.com/dr_meg/vita-dashboard) — analytics dashboard for token activity  
