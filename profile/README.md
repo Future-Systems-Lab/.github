@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/future-systems-lab-header.png" alt="Future Systems Lab" width="800">
+  <img src="./assets/future-systems-lab-header.png" alt="Future Systems Lab" width="500">
 </p>
 <p align="center"><b>Digital Health · Analytics · Web3 · Security</b></p>
 
