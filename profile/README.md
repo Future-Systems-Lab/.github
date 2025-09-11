@@ -1,10 +1,9 @@
-<!-- Rights Reserved, Unlicensed -->
+<!-- header -->
 <p align="center">
   <img src="assets/future-systems-lab-header.png" alt="Future Systems Lab" width="1200">
 </p>
-<p align="center"><b>Analytics · Web3 · Digital Health · Security</b></p>
-<!-- Rights Reserved, Unlicensed -->
-Analytics · Blockchain/Web3 · Governance/Security
+<p align="center"><b>Digital Health · Analytics · Web3 · Security</b></p>
+
 
 ---
 
