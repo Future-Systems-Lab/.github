@@ -6,10 +6,11 @@
 
 ---
 
-## About Future Systems Lab  
+## 🥼 About Future Systems Lab  
 
-Future Systems Lab is a hub for digital health innovation, Web3 infrastructure, and applied informatics.  
-Our work combines decentralized identity, blockchain security, and advanced analytics to create scalable, compliance-ready health solutions.  
+Future Systems Lab explores applied informatics, secure systems, and blockchain infrastructure in healthcare.  
+Projects span decentralized identity, data integration, and analytics pipelines, with emphasis on compliance and scalability.  
+ 
 
 ---
 
