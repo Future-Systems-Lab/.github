@@ -1,8 +1,6 @@
 <p align="center">
   <img src="./assets/future-systems-lab-banner.jpg" alt="Future Systems Lab" width="1000">
 </p>
-<p align="center"><b>Digital Health · Analytics · Web3 · Security</b></p>
-
 
 
 ---
