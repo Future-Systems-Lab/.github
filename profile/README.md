@@ -31,7 +31,7 @@ Repo: private (request access)
 
 ## ⭐ Featured  
 
-- [secure-health-login](https://github.com/Future-Systems-Lab/secure-health-login) — SIWE + EIP-712 + MetaMask authentication demo  
+- [secure-health-login](https://github.com/Future-Systems-Lab/secure-health-login) — MetaMask authentication demo  
 - [VITA Token Activity Dashboard](https://dune.com/dr_meg/vita-dashboard) — public analytics dashboard (Dune)  
 - [openmrs-core](https://github.com/openmrs/openmrs-core) — contributions to open-source EHR  
 - [spellbook](https://github.com/duneanalytics/spellbook) — analytics modeling for blockchain data  
