@@ -21,11 +21,6 @@ Future Systems Lab showcases applied expertise in decentralized health innovatio
 - **Mental Wellness Ecosystem** — an end-to-end decentralized platform for mental health engagement, integrating psychology domain expertise with secure digital identity, tokenized incentives, and applied clinical informatics.  
   *Repos: [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) (ecosystem foundation), HypnoNeuro (private), EncryptHealth (private)*  
 
-- **Drug Safety & Pharmacovigilance** — a privacy-preserving pharmacovigilance framework leveraging FAERS and clinical safety data for adverse event analytics, real-world evidence generation, and immutable auditability.  
-Repo: [Gabapentin Pharmacovigilance Case Study](https://github.com/Future-Systems-Lab/gabapentin-pharmacovigilance/blob/main/README.md)  
-
-- **Verifiable Credentialing & Consent Interop** — provider credentialing and patient consent using DIDs/VCs with OIDC4VP, mapped to HL7 FHIR. Emphasizes **analytics**, **blockchain**, and **governance** across issuance, verification, and audit events.  
-Repo: private (request access)
 
 ---
 
