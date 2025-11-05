@@ -8,9 +8,9 @@
 
 ## 🥼 About Future Systems Lab  
 
-Future Systems Lab explores applied informatics, secure systems, and blockchain infrastructure in healthcare.  
-Projects span decentralized identity, data integration, and analytics pipelines, with emphasis on compliance and scalability.  
- 
+Future Systems Lab advances applied informatics and blockchain infrastructure for healthcare.  
+Projects focus on decentralized identity, consent-based data exchange, and analytics pipelines designed for privacy, compliance, and scalability.
+
 
 ---
 
