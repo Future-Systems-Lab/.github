@@ -14,13 +14,14 @@ Projects focus on decentralized identity, consent-based data exchange, and analy
 
 ---
 
-## 📌 Pinned Case Studies  
-
-Future Systems Lab showcases applied expertise in decentralized health innovation, informatics, and Web3 security through three flagship case studies:  
+📌 **Pinned Case Studies**  
+Future Systems Lab showcases applied expertise in decentralized health innovation, informatics, and Web3 security through four flagship case studies:
 
 - **Mental Wellness Ecosystem** — an end-to-end decentralized platform for mental health engagement, integrating psychology domain expertise with secure digital identity, tokenized incentives, and applied clinical informatics.  
-  *Repos: [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) (ecosystem foundation), HypnoNeuro (private), EncryptHealth (private)*  
+  *Repos:* Where-Mental-Wellness-Meets-Metaverse (ecosystem foundation), HypnoNeuro (private), EncryptHealth (private)
 
+- **CBD Continuum Retail** — the first CBD wellness retail store in Apex, NC, pioneering orthomolecular formulations and cannabinoid-based therapies. Demonstrated application of health data transparency, COA verification, and community health engagement as early precursors to the Future Systems Lab architecture.  
+  *Repo:* [CBD-Continuum-Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail)
 
 ---
 
