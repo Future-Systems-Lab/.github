@@ -15,7 +15,7 @@ Projects focus on decentralized identity, consent-based data exchange, and analy
 ---
 
 📌 **Pinned Case Studies**  
-Future Systems Lab showcases applied expertise across decentralized health innovation, informatics, product design, **and retail experience design**—including storefront branding, visual merchandising, packaging, and COA-driven transparency.
+Future Systems Lab showcases applied expertise across decentralized health innovation, informatics, product design, and retail experience design—including storefront branding, visual merchandising, packaging, and COA-driven transparency.
 
 - **[Mental Wellness Ecosystem](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse)** — an end-to-end decentralized platform for mental health engagement. Demonstrates integration of psychology domain expertise with secure digital identity, tokenized incentives, behavioral UX, and applied clinical informatics.  
   *Repos:* [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) (ecosystem foundation), **HypnoNeuro** *(private)*, **EncryptHealth** *(private)*
