@@ -27,13 +27,23 @@ Future Systems Lab showcases applied expertise across decentralized health innov
 
 ---
 
-## ⭐ Featured  
+⭐ **Featured**
 
-- [secure-health-login](https://github.com/Future-Systems-Lab/secure-health-login) — MetaMask authentication demo  
-- [VITA Token Activity Dashboard](https://dune.com/dr_meg/vita-dashboard) — public analytics dashboard (Dune)  
-- [openmrs-core](https://github.com/openmrs/openmrs-core) — contributions to open-source EHR  
-- [spellbook](https://github.com/duneanalytics/spellbook) — analytics modeling for blockchain data  
-- [ehrbase](https://github.com/ehrbase/ehrbase) — openEHR platform  
+- **[secure-health-login](https://github.com/Future-Systems-Lab/secure-health-login)** — Next.js + Wagmi v2 MetaMask auth demo (EIP-712–ready), Sepolia-verified.  
+  *My role:* architected wallet flow, fixed connector config, stabilized build, and wrote the providers/layout pattern.
+
+- **[VITA Token Activity Dashboard](https://dune.com/)** — Dune analytics with on-chain KPIs (holders, velocity, top contracts).  
+  *My role:* authored parameterized SQL, built refreshable views, and defined entity/tag logic for dashboards.
+
+- **[openmrs-core](https://github.com/openmrs/openmrs-core)** — Open-source EHR (FHIR/HL7).  
+  *My role:* tested FHIR resource flows, drafted DID/consent workflow notes, and contributed docs and minor fixes.
+
+- **[spellbook](https://github.com/duneanalytics/spellbook)** — Blockchain analytics modeling (dbt).  
+  *My role:* created models for labels and tx classifications, added schema tests, and set up incremental materializations.
+
+- **[ehrbase](https://github.com/ehrbase/ehrbase)** — openEHR platform.  
+  *My role:* validated templates, wrote repro cases for interoperability issues, and assisted with OT/OPT test coverage.
+
 
 ---
 
