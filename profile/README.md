@@ -21,7 +21,8 @@ Future Systems Lab demonstrates applied expertise across decentralized health in
   *Repo:* [CBD-Continuum-Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail) • *Product mock-ups:* [/CBD-Products/Mockups](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products/Mockups)
 
 - **[Mental Wellness Ecosystem](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse)** — decentralized mental health platform integrating digital identity, tokenized incentives, and applied clinical informatics. Extended principles of product trust and transparency into secure, human-centered digital systems.  
-  *Repos:* [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) (ecosystem foundation), **HypnoNeuro** *(private)*, **EncryptHealth** *(private)*
+*Repos:* [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) (ecosystem foundation), [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) *(private)*, [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) *(private)*
+
 
 
 ---
