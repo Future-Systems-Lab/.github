@@ -23,6 +23,8 @@ Future Systems Lab showcases applied expertise across decentralized health innov
 - **[CBD Continuum Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail)** — first CBD wellness retail in Apex, NC. Covers **store buildout**, **brand + signage**, **planogram/merchandising**, **labeling and packaging**, **COA verification workflows**, **POS/inventory basics**, and customer education—early precursors to the Lab’s digital health and data-governance architecture.  
   *Repo:* [CBD-Continuum-Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail) • *Product mock-ups:* [/CBD-Products/Mockups](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products/Mockups)
 
+First CBD wellness retail in Apex, NC. Covers store buildout, brand + signage, planogram/merchandising, labeling and packaging, COA verification workflows, POS/inventory basics, and customer education—early precursors to the Lab’s digital health and data-governance architecture.  
+Repo: [CBD-Continuum-Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail) • Product mock-ups: [/CBD-Products/Mockups](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products/Mockups)
 
 
 ---
