@@ -18,10 +18,11 @@ Projects focus on decentralized identity, consent-based data exchange, and analy
 Future Systems Lab showcases applied expertise across decentralized health innovation, informatics, and product design — merging blockchain security, clinical data governance, and human-centered UX/UI design.
 
 - **[Mental Wellness Ecosystem](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse)** — an end-to-end decentralized platform for mental health engagement. Demonstrates integration of psychology domain expertise with secure digital identity, tokenized incentives, behavioral UX design, and applied clinical informatics.  
-  *Repos:* [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) (ecosystem foundation), [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) *(private)*, [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) *(private)*  
+  *Repos:* [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) (ecosystem foundation), **HypnoNeuro** *(private)*, **EncryptHealth** *(private)*
 
 - **[CBD Continuum Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail)** — the first CBD wellness retail store in Apex, NC. Demonstrates early product strategy, UX-driven wellness branding, orthomolecular formulation mapping, and data-transparency design via COA verification workflows.  
-  *Repo:* [CBD-Continuum-Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail)
+  *Repo:* [CBD-Continuum-Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail) • *Product mock-ups:* [/CBD-Products/Mockups](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products/Mockups)
+
 
 
 ---
