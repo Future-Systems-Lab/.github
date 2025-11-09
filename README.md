@@ -1,37 +1,40 @@
-# Future Systems Lab
+# Future Systems Lab  
 
-Exploring the intersection of **analytics, blockchain, and governance** through applied projects in digital health.  
-
----
-
-## Focus Areas
-- **Analytics** — data pipelines, dashboards, healthcare informatics  
-- **Blockchain / Web3** — smart contracts, decentralized identity, tokenomics  
-- **Governance & Security** — compliance, HL7/FHIR, cyber governance frameworks  
+Applied research and development lab exploring the intersection of **digital health, analytics, and blockchain governance** through modular prototypes in decentralized therapeutics, informatics, and health data systems.  
 
 ---
 
-## Applied Domains
-Skills are demonstrated through projects in:
-- **Mental Wellness** — tokenized engagement and data integration  
-- **Nutrition** — data analysis and privacy-preserving health applications  
-- **Digital Health Systems** — secure login, open standards, healthcare IT  
+### 🧠 Focus Areas  
+- **Analytics** — data visualization, SQL modeling, and healthcare informatics  
+- **Blockchain / Web3** — smart contracts, decentralized identity, and tokenized engagement  
+- **Governance & Security** — HL7/FHIR standards, compliance architecture, and cyber governance  
 
 ---
 
-## Featured Repositories
-- [**org-inventory-and-showcase**](https://github.com/Future-Systems-Lab/org-inventory-and-showcase) — migration record and portfolio index  
-- [**secure-health-login**](https://github.com/Future-Systems-Lab/secure-health-login) — Sign-In with Ethereum (EIP-712) wallet integration  
-- [**openmrs-core**](https://github.com/Future-Systems-Lab/openmrs-core) — contributions to open-source health record systems  
-- [**spellbook**](https://github.com/Future-Systems-Lab/spellbook) — analytics and data modeling resources  
-- [**ehrbase**](https://github.com/Future-Systems-Lab/ehrbase) — electronic health record platform contributions  
+### ⚙️ Applied Domains  
+- **Mental Wellness** — modular, tokenized engagement via [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro)  
+- **Nutrition & Biochemistry** — Orthomolecular Dashboard for self-directed wellness analytics  
+- **Digital Health Systems** — privacy-first login, consent, and interoperability via [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth)  
 
 ---
 
-## About
-Future Systems Lab is a hub for professional and academic projects bridging:  
-- Applied data analytics (BS Analytics in progress)  
-- Blockchain and digital currency (MSc planned)  
-- Cyber governance (Graduate Certificate)  
+### 🧩 Featured Repositories  
+- **[HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro)** — AI-assisted modular therapeutic framework  
+- **[EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth)** — encrypted health data and compliance analytics  
+- **[Secure Health Login](https://github.com/Future-Systems-Lab/secure-health-login)** — EIP-712 MetaMask authentication and dashboard  
+- **[VITA Dashboard](https://github.com/Future-Systems-Lab/vita-token-activity-dashboard)** — on-chain token analytics using Dune SQL  
+- **[OpenMRS Core](https://github.com/openmrs/openmrs-core)** — open-source EHR interoperability and FHIR compliance  
 
-The goal is to develop and demonstrate capabilities for roles in **Web3 project management and digital health innovation**.  
+---
+
+### 🧭 About  
+
+**Meg Montañez-Davenport**  
+Digital Health & Web3 Architect  
+
+- **Current:** B.S. in Management Information Systems & Business Analytics, *Colorado State University Global*  
+- **Planned:** Post-Graduate Certificate in Digital Health → M.S. in Digital Health  
+- **Certifications:** Health Informatics (*Johns Hopkins*), Certified Blockchain Healthcare Professional (CBHP), Board Certified in Holistic Nutrition (BCHN)  
+- **Doctoral Background:** Naturopathic Psychology with focus in Orthomolecular Medicine  
+
+Future Systems Lab unites data science, blockchain architecture, and health informatics to build **AI-driven, tokenized wellness systems** that demonstrate secure interoperability and human-centered design across emerging healthcare technologies.
