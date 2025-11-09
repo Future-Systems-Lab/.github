@@ -9,45 +9,55 @@
 🥼 **About Future Systems Lab**
 Future Systems Lab advances applied informatics and blockchain infrastructure for healthcare. Originating from wellness product development and retail space design, it now applies those same principles of transparency, traceability, and trust through blockchain-enabled digital health systems. The lab connects data integrity, decentralized identity, consent, and analytics—building scalable, compliant, and human-centered solutions for modern healthcare.
 
+---
 
+# 📌 Pinned Case Studies  
 
+**Future Systems Lab** showcases applied expertise in **digital health architecture**, **health informatics**, **Web3 product management**, **blockchain governance**, and **data transparency systems**.
 
 ---
 
-### 📌 Pinned Case Studies
+## 🧪 CBD Continuum Retail  
+**Category:** Applied Retail Systems Design  
+**Focus:** Health Product Lifecycle • Consumer Data Integrity • Operations Analytics  
 
-**Future Systems Lab** showcases applied expertise in **digital health architecture, health informatics, Web3 product management, blockchain governance, and data transparency systems**.
+**Summary:**  
+First CBD wellness retail store in Apex, North Carolina. Demonstrated **evidence-based retail design**, **regulated-market compliance**, and **data-driven transparency** through COA verification and traceable product provenance.  
 
----
-
-### 🧪 CBD Continuum Retail  
-**Description:** First CBD wellness retail store in Apex, North Carolina. Demonstrated **health product lifecycle management**, **evidence-based education**, and **data-driven transparency** through COA verification and traceable product design.  
-**Competencies Highlighted:** Operations analytics • consumer health data integrity • product provenance • regulated-market compliance • human-centered design.  
-**Repo:** [CBD-Continuum-Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail)
+**Repository:** [CBD-Continuum-Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail)
 
 ---
 
-### 🧠 Mental Wellness Ecosystem  
-**Description:** A decentralized **digital-health innovation framework** integrating behavioral science, clinical informatics, and secure patient-consent workflows using **blockchain and verifiable credentials**.  
-**Competencies Highlighted:** HL7/FHIR interoperability • decentralized identity (DID/VC) • governance and compliance analytics • user-centric health data exchange • secure Web3 architecture.  
-**Repos:**  
+## 🧠 Mental Wellness Ecosystem  
+**Category:** Digital Health Systems Architecture  
+**Focus:** Blockchain Governance • Clinical Informatics • Secure Consent  
+
+**Summary:**  
+Decentralized mental-wellness network integrating **behavioral science**, **clinical data governance**, and **verifiable credentials (DID/VC)** for patient consent and secure identity exchange.  
+
+**Repositories:**  
 - [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) — ecosystem foundation  
-- [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — platform for modular therapies, engagement rewards, and decentralized consent  
-- [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) — privacy-preserving health data and credentialing layer
+- [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — modular engagement and practitioner verification  
+- [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) — encrypted data and compliance analytics  
 
 ---
 
-### 🧩 HypnoNeuro Modular Framework  
-Progressive therapeutic modules designed for **data-informed personalization**, **tokenized engagement**, and **interoperable governance**. Each layer represents a testable methodology for evidence-based digital-health delivery.
+## 🧩 HypnoNeuro Modular Framework  
+**Category:** Decentralized Therapeutic Design  
+**Focus:** Tokenized Engagement • AI Personalization • Story-Based Reintegration  
 
-| Level | Module | Focus | Status |
-|:------:|:--------|:--------|:--------|
-| **L1** | Hypnosis Room | Guided subconscious reprogramming and behavioral analytics | *in progress* |
-| **L2** | Orthomolecular Room | Nutritional and biochemical optimization through personalized informatics | *in progress* |
-| **L3** | Narrative Room | Emotional reintegration through metaphor (“EJ’s Path” & “Isiah: The King”) demonstrating AI-driven storytelling as therapy | ✅ complete |
+**Overview:**  
+A modular framework demonstrating applied research in **AI-driven emotional processing**, **data-integrated wellness analytics**, and **tokenized behavioral reinforcement**.  
+Each module connects to HypnoNeuro for participation rewards and NFT credentialing.
 
-**Core Principle:**  
-> Delivers emotional safety through metaphor instead of direct re-exposure.
+| Level | Module | Description | Demonstrations |
+|:------:|:--------|:----------------|:----------------|
+| **L1** | Hypnosis Room | Guided subconscious reprogramming | — |
+| **L2** | Orthomolecular Room | Nutritional and biochemical optimization | — |
+| **L3** | Narrative Room | Story-based emotional reintegration through metaphor | [EJ’s Path](https://www.youtube.com/watch?v=hI_LWuS0-L0) • [Isiah: The King](https://github.com/Future-Systems-Lab/InnerChild-Healing-System/blob/main/use_cases/Isiah%20The%20King.pdf) |
+
+> **Guiding Principle:** Delivers emotional safety through metaphor instead of direct re-exposure.
+
 
 
 ---
