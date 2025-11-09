@@ -60,8 +60,10 @@ Each module connects to HypnoNeuro for participation rewards and NFT credentiali
 | **L3** | Narrative Room | Story-based emotional reintegration through metaphor | [EJ’s Path](https://www.youtube.com/watch?v=hI_LWuS0-L0) • [Isiah: The King](https://github.com/Future-Systems-Lab/InnerChild-Healing-System/blob/main/use_cases/Isiah%20The%20King.pdf) |
 
 > **Guiding Principles**  
-> • **L1 – Hypnosis:** Awareness through present-moment focus 
+> • **L1 – Hypnosis:** Awareness through present-moment focus  
+>  
 > • **L2 – Orthomolecular:** Stability through biochemical balance  
+>  
 > • **L3 – Narrative:** Safety through metaphor instead of direct re-exposure
 
 
