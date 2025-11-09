@@ -14,15 +14,40 @@ Future Systems Lab advances applied informatics and blockchain infrastructure fo
 
 ---
 
-📌 **Pinned Case Studies**  
-Future Systems Lab demonstrates applied expertise across decentralized health innovation, informatics, product design, and retail experience design.
+# 📌 Pinned Case Studies
 
-- **[CBD Continuum Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail)** — first CBD wellness retail in Apex, NC. Showcased holistic retail design through store buildout, branding, merchandising, packaging, COA verification, and customer education. The retail model served as a real-world foundation for the Lab’s later blockchain applications in data transparency and provenance.  
-  *Repo:* [CBD-Continuum-Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail) • *Product mock-ups:* [/CBD-Products/Mockups](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products/Mockups)
+**Future Systems Lab** showcases applied expertise in **digital health architecture, health informatics, Web3 product management, blockchain governance, and data transparency systems**.
 
-- **[Mental Wellness Ecosystem](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse)** — decentralized mental health platform integrating digital identity, tokenized incentives, and applied clinical informatics. Extended principles of product trust and transparency into secure, human-centered digital systems.  
-*Repos:* [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) (ecosystem foundation), [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) *(private)*, [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) *(private)*
+---
 
+### 🧪 CBD Continuum Retail  
+**Description:** First CBD wellness retail store in Apex, North Carolina. Demonstrated **health product lifecycle management**, **evidence-based education**, and **data-driven transparency** through COA verification and traceable product design.  
+**Competencies Highlighted:** Operations analytics • consumer health data integrity • product provenance • regulated-market compliance • human-centered design.  
+**Repo:** [CBD-Continuum-Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail)
+
+---
+
+### 🧠 Mental Wellness Ecosystem  
+**Description:** A decentralized **digital-health innovation framework** integrating behavioral science, clinical informatics, and secure patient-consent workflows using **blockchain and verifiable credentials**.  
+**Competencies Highlighted:** HL7/FHIR interoperability • decentralized identity (DID/VC) • governance and compliance analytics • user-centric health data exchange • secure Web3 architecture.  
+**Repos:**  
+- [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) — ecosystem foundation  
+- [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — platform for modular therapies, engagement rewards, and decentralized consent  
+- [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) — privacy-preserving health data and credentialing layer
+
+---
+
+### 🧩 HypnoNeuro Modular Framework  
+Progressive therapeutic modules designed for **data-informed personalization**, **tokenized engagement**, and **interoperable governance**. Each layer represents a testable methodology for evidence-based digital-health delivery.
+
+| Level | Module | Focus | Status |
+|:------:|:--------|:--------|:--------|
+| **L1** | Hypnosis Room | Guided subconscious reprogramming and behavioral analytics | *in progress* |
+| **L2** | Orthomolecular Room | Nutritional and biochemical optimization through personalized informatics | *in progress* |
+| **L3** | Narrative Room | Emotional reintegration through metaphor (“EJ’s Path” & “Isiah: The King”) demonstrating AI-driven storytelling as therapy | ✅ complete |
+
+**Core Principle:**  
+> Delivers emotional safety through metaphor instead of direct re-exposure.
 
 
 ---
