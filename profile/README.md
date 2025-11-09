@@ -59,7 +59,11 @@ Each module connects to HypnoNeuro for participation rewards and NFT credentiali
 | **L2** | Orthomolecular Room | Nutritional and biochemical optimization | — |
 | **L3** | Narrative Room | Story-based emotional reintegration through metaphor | [EJ’s Path](https://www.youtube.com/watch?v=hI_LWuS0-L0) • [Isiah: The King](https://github.com/Future-Systems-Lab/InnerChild-Healing-System/blob/main/use_cases/Isiah%20The%20King.pdf) |
 
-> **Guiding Principle:** Delivers emotional safety through metaphor instead of direct re-exposure.
+> **Guiding Principles**  
+> • **L1 – Hypnosis Room:** Safety through structure — trust and calm are reinforced by repetition, rhythm, and guided induction.  
+> • **L2 – Orthomolecular Room:** Stability through balance — resilience is supported by biochemical harmony and evidence-based nutrient pathways.  
+> • **L3 – Narrative Room:** Safety through metaphor — emotional processing occurs symbolically, avoiding direct re-exposure while fostering acceptance and insight.
+
 
 
 
