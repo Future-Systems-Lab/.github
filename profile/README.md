@@ -58,7 +58,7 @@ Each module connects to HypnoNeuro for participation rewards and NFT credentiali
 |-------|---------|--------------|----------------|
 | **L1** | Hypnosis Room | Guided subconscious reprogramming | [Visual Induction Demo](https://www.youtube.com/watch?v=xsGsPWgjbW4) |
 | **L2** | Orthomolecular Room | Nutritional and biochemical optimization | — |
-| **L3** | Narrative Room | Story-based emotional reintegration through metaphor | [EJ’s Path](https://www.youtube.com/watch?v=y1kB5UT1ksA) · [Isiah: The King](https://github.com/Future-Systems-Lab/.github/raw/main/profile/assets/Isiah_The_King.pdf) |
+| **L3** | Narrative Room | Story-based emotional reintegration through metaphor | [EJ’s Path](https://www.youtube.com/watch?v=y1kB5UT1ksA) · [Isiah: The King](https://github.com/Future-Systems-Lab/.github/raw/main/profile/Isiah%20The%20King.pdf)
 
 ---
 
