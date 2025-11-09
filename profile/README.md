@@ -87,3 +87,6 @@ Each module connects to HypnoNeuro for participation rewards and NFT credentiali
 
 Some repositories are private to protect intellectual property and in-progress audits.  
 Recruiters, collaborators, or reviewers may request access for full evaluation.  
+## 🧩 HypnoNeuro Modular Framework
+
+- Orthomolecular Dashboard MVP — Live: https://orthomolecular-dashboard-4xyc07ulv-megs-projects-95a11e5b.vercel.app — Repo: https://github.com/Future-Systems-Lab/Orthomolecular-Dashboard
