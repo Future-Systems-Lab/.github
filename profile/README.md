@@ -26,7 +26,9 @@ Evolving from wellness product design to digital health architecture, the lab ad
 **Summary:**  
 First CBD wellness retail store in Apex, North Carolina. Demonstrated **evidence-based retail design**, **regulated-market compliance**, and **data-driven transparency** through COA verification and traceable product provenance.
 
-**Repository:** [CBD-Continuum-Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail)
+**Products & COAs:**  
+- Product Catalog: https://drive.google.com/drive/folders/1gWAeT4ixsVWY2lhznRPgVCroh9x9fUhf  
+- Repository: https://github.com/Future-Systems-Lab/CBD-Continuum-Retail
 
 ---
 
@@ -50,30 +52,29 @@ Decentralized mental-wellness network integrating **behavioral science**, **clin
 
 ### Overview
 A modular framework for applied research in:
-- AI-assisted emotional processing
-- data-integrated wellness analytics
+- AI-assisted emotional processing  
+- data-integrated wellness analytics  
 - tokenized behavioral reinforcement (NFT credentialing)
 
-Each module connects to HypnoNeuro for participation rewards and verifiable credentials.
+Each module connects to **HypnoNeuro** for participation rewards and verifiable credentials, **and to EncryptHealth for medication-change verification**.
 
 ### What’s Live Now
 - **L2 Orthomolecular Dashboard MVP**  
-  Wallet connect → medication confirmation → mood sliders → Analyze → educational naturopathic insight.  
+  Wallet connect → medication confirmation → mood sliders → **Analyze** → educational naturopathic insight.  
   - Live: https://orthomolecular-dashboard-4xyc07ulv-megs-projects-95a11e5b.vercel.app  
   - Repo: https://github.com/Future-Systems-Lab/Orthomolecular-Dashboard  
   - Data model: JSON (amino-acid precursors → neurotransmitter synthesis potential)  
   - Visualization: Recharts bar chart (Serotonin, Dopamine, GABA, Endorphins, Endocannabinoid)  
   - Tech: Next.js, React, TypeScript, Tailwind, Recharts, Wagmi, Viem, React Query  
-  - Health check: `/api/health`
+  - Health check: `/api/health`  
+  - Disclaimer: **Rendered directly under the chart** — “Educational prototype only. Not medical advice. Do not change medications without consulting a qualified professional.”
 
 ### Roadmap (Phase 2)
-- Cofactors (B6, Mg), lifestyle and nutrient-density inputs
-- Gut–brain axis and detox support modeling
-- EncryptHealth integration for medication changes
-- FHIR/HL7 interoperability
+- Cofactors (B6, Mg), lifestyle and nutrient-density inputs  
+- Gut–brain axis and detox support modeling  
+- EncryptHealth integration for medication changes  
+- FHIR/HL7 interoperability  
 - Adaptive AI recommendations
-
-> **Educational Disclaimer:** Prototype for education only. Not medical advice. Do not change medications without consulting a qualified professional.
 
 | Level | Module | Description | Demonstrations |
 |---|---|---|---|
