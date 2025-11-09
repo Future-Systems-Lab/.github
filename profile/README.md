@@ -54,11 +54,12 @@ A modular framework demonstrating applied research in **AI-driven emotional proc
 Each module connects to HypnoNeuro for participation rewards and NFT credentialing.
 
 
-| Level | Module | Description | Demonstrations |
-|-------|---------|--------------|----------------|
-| **L1** | Hypnosis Room | Guided subconscious reprogramming | [Visual Induction Demo](https://www.youtube.com/watch?v=xsGsPWgjbW4) |
-| **L2** | Orthomolecular Room | Nutritional and biochemical optimization | — | Live: https://orthomolecular-dashboard-4xyc07ulv-megs-projects-95a11e5b.vercel.app — Repo: https://github.com/Future-Systems-Lab/Orthomolecular-Dashboard
-| **L3** | Narrative Room | Story-based emotional reintegration through metaphor | [EJ’s Path](https://www.youtube.com/watch?v=y1kB5UT1ksA) · [Isiah: The King](https://drive.google.com/file/d/1JdT6pN2gT5BzjQlCne8z5HilSPJ7vYsu/view?usp=sharing) |
+| Level | Module                | Description                                          | Demonstrations |
+|------:|-----------------------|------------------------------------------------------|----------------|
+| **L1** | Hypnosis Room         | Guided subconscious reprogramming                    | [Visual Induction Demo](https://www.youtube.com/watch?v=xsGsPWgjbW4) |
+| **L2** | Orthomolecular Room   | Nutritional and biochemical optimization             | Live: https://orthomolecular-dashboard-4xyc07ulv-megs-projects-95a11e5b.vercel.app · Repo: https://github.com/Future-Systems-Lab/Orthomolecular-Dashboard |
+| **L3** | Narrative Room        | Story-based emotional reintegration through metaphor | [EJ’s Path](https://www.youtube.com/watch?v=y1kB5UT1ksA) · [Isiah: The King](https://drive.google.com/file/d/1JdT6pN2gT5BzjQlCne8z5HilSPJ7vYsu/view?usp=sharing) |
+
 
 
 ---
