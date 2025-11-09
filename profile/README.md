@@ -14,7 +14,7 @@ Future Systems Lab advances applied informatics and blockchain infrastructure fo
 
 ---
 
-# 📌 Pinned Case Studies
+### 📌 Pinned Case Studies
 
 **Future Systems Lab** showcases applied expertise in **digital health architecture, health informatics, Web3 product management, blockchain governance, and data transparency systems**.
 
