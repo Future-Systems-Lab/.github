@@ -27,8 +27,12 @@ Evolving from wellness product design to digital health architecture, the lab ad
 First CBD wellness retail store in Apex, North Carolina. Demonstrated **evidence-based retail design**, **regulated-market compliance**, and **data-driven transparency** through COA verification and traceable product provenance.
 
 **Products & COAs:**  
-- Product Catalog: https://drive.google.com/drive/folders/1gWAeT4ixsVWY2lhznRPgVCroh9x9fUhf  
-- Repository: https://github.com/Future-Systems-Lab/CBD-Continuum-Retail
+- Catalog (GitHub): https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products  
+- COA Folder (Drive): https://drive.google.com/drive/folders/1gWAeT4ixsVWY2lhznRPgVCroh9x9fUhf
+
+**Repository:**  
+- https://github.com/Future-Systems-Lab/CBD-Continuum-Retail
+
 
 ---
 
