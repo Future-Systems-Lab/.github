@@ -28,7 +28,7 @@ First CBD wellness retail store in Apex, North Carolina. Demonstrated **evidence
 
 **Products & COAs:**  
 - Catalog (GitHub): https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products  
-- COA Folder (Drive): https://drive.google.com/drive/folders/1gWAeT4ixsVWY2lhznRPgVCroh9x9fUhf
+- COAs (GitHub): https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products/COAs
 
 **Repository:**  
 - https://github.com/Future-Systems-Lab/CBD-Continuum-Retail
