@@ -45,13 +45,37 @@ Decentralized mental-wellness network integrating **behavioral science**, **clin
 
 ---
 
-## 🧩 HypnoNeuro Modular Framework  
+## 🧩 HypnoNeuro Modular Framework
 **Category:** Decentralized Therapeutic Design  
-**Focus:** Tokenized Engagement • AI Personalization • Story-Based Reintegration  
+**Focus:** Tokenized Engagement • AI Personalization • Story-Based Reintegration
 
-**Overview:**  
-A modular framework demonstrating applied research in **AI-driven emotional processing**, **data-integrated wellness analytics**, and **tokenized behavioral reinforcement**.  
-Each module connects to HypnoNeuro for participation rewards and NFT credentialing.
+### Overview
+A modular framework for applied research in:
+- AI-assisted emotional processing,
+- data-integrated wellness analytics, and
+- tokenized behavioral reinforcement (NFT credentialing).
+
+Each module connects to HypnoNeuro for participation rewards and verifiable credentials.
+
+### What’s Live Now
+- **L2 Orthomolecular Dashboard MVP**  
+  Wallet connect → medication confirmation → mood sliders → Analyze → educational naturopathic insight.  
+  - Live: https://orthomolecular-dashboard-4xyc07ulv-megs-projects-95a11e5b.vercel.app  
+  - Repo: https://github.com/Future-Systems-Lab/Orthomolecular-Dashboard
+  - Data model: JSON (amino-acid precursors → neurotransmitter synthesis potential)
+  - Visualization: Recharts bar chart (Serotonin, Dopamine, GABA, Endorphins, Endocannabinoid)
+  - Tech: Next.js, React, TypeScript, Tailwind, Recharts, Wagmi, Viem, React Query
+  - Health check: `/api/health`
+
+### Roadmap (Phase 2)
+- Cofactors (B6, Mg), lifestyle and nutrient-density inputs
+- Gut–brain axis and detox support modeling
+- EncryptHealth integration for med changes
+- FHIR/HL7 interoperability
+- Adaptive AI recommendations
+
+> **Educational Disclaimer:** Prototype for education only. Not medical advice. Do not change medications without consulting a qualified professional.
+
 
 
 | Level | Module                | Description                                          | Demonstrations |
