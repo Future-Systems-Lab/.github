@@ -53,11 +53,13 @@ Decentralized mental-wellness network integrating **behavioral science**, **clin
 A modular framework demonstrating applied research in **AI-driven emotional processing**, **data-integrated wellness analytics**, and **tokenized behavioral reinforcement**.  
 Each module connects to HypnoNeuro for participation rewards and NFT credentialing.
 
+
 | Level | Module | Description | Demonstrations |
-|:------:|:--------|:----------------|:----------------|
-| L1 | Hypnosis Room | Guided subconscious reprogramming | [Visual Induction Demo](https://www.youtube.com/@future_systems_lab/watch?v=xsGsPWgjbW4) |
+|-------|---------|--------------|----------------|
+| **L1** | Hypnosis Room | Guided subconscious reprogramming | [Visual Induction Demo](https://www.youtube.com/watch?v=xsGsPWgjbW4) |
 | **L2** | Orthomolecular Room | Nutritional and biochemical optimization | — |
-| **L3** | Narrative Room | Story-based emotional reintegration through metaphor | [EJ’s Path](https://www.youtube.com/@future_systems_lab/watch?v=xsGsPWgjbW4)(https://www.youtube.com/watch?v=y1kB5UT1ksA) • [Isiah: The King](https://github.com/Future-Systems-Lab/InnerChild-Healing-System/blob/main/use_cases/Isiah%20The%20King.pdf) |
+| **L3** | Narrative Room | Story-based emotional reintegration through metaphor | [EJ’s Path](https://www.youtube.com/watch?v=y1kB5UT1ksA) · [Isiah: The King](https://www.youtube.com/@future_systems_lab) |
+
 
 
 ---
