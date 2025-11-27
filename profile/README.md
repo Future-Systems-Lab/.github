@@ -8,8 +8,9 @@
 
 ## 🥼 About Future Systems Lab
 
-Future Systems Lab develops **applied informatics** and **blockchain infrastructure** for healthcare.  
-Evolving from wellness product design to digital health architecture, the lab advances **transparency**, **traceability**, and **trust** through decentralized identity, consent, analytics, and neuromodulator modeling—building **scalable**, **compliant**, and **human-centered** systems for modern care.
+Future Systems Lab develops **digital health systems** that integrate **biosensing wearables**, **applied informatics**, and **blockchain-based consent**.  
+The lab combines **sensor engineering**, **secure data governance**, **interoperability**, and **intelligent analytics** to create transparent, traceable, and human-centered solutions across the healthcare ecosystem.
+
 
 ---
 
