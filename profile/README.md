@@ -20,29 +20,25 @@ Future Systems Lab showcases applied expertise in **digital health architecture*
 ---
 
 ## ⌚ NeuroBalance Watch  
+Category: Wearable Digital Health R&D  
+Focus: On-Chain Consent • Biosensing Concepts • Orthomolecular-Inspired Insight
 
-**Category:** Wearable Digital Health R&D  
-**Focus:** On-Chain Consent • Biosensing • Orthomolecular Insight Engine  
+**Summary**  
+NeuroBalance is a conceptual brain-health wearable used as a design study, exploring how future systems could combine self-reported brain states, hypothetical biosensing signals, and orthomolecular-inspired axes with a user-controlled, on-chain consent registry for transparent data governance.
 
-### Summary  
-
-NeuroBalance is a next-generation wearable prototype that models biochemical precursors, captures user-controlled wellness signals, and anchors consent on-chain for transparent data governance.
-
-### What It Demonstrates  
-
+**What It Demonstrates**  
 - Smart contract architecture (Sepolia)  
 - User-controlled on-chain consent toggles  
-- Multi-analyte electrochemical sensor R&D:  
-  - Amino-acid precursor detection  
-  - pH microfluidics  
-  - GSR, skin-temperature, HRV pathway  
-- Orthomolecular neuromodulator modeling  
+- Conceptual multi-analyte electrochemical sensor R&D:  
+  - Amino-acid precursor and pH microfluidic concepts  
+  - GSR, skin-temperature, HRV signal pathways  
+- Orthomolecular-inspired neuromodulator pattern modeling (educational, non-diagnostic)  
 - React Native watch UI prototype  
-- Full concept flow: **contract → sensor → insight → UX**
+- Full concept flow: consent → data model → insight lens → UX
 
-### Ecosystem Alignment  
+**Ecosystem Alignment**  
+Built on a user-controlled, on-chain consent model consistent with Future Systems Lab’s broader digital-health and Web3 governance architecture, showcasing integrated skills across product design, health informatics/analytics, brain-focused mental wellness, and decentralized consent.
 
-Built on a user-controlled, on-chain consent model consistent with Future Systems Lab’s broader digital-health architecture.
 
 ### Repository  
 
