@@ -13,22 +13,26 @@ The lab combines **sensor engineering**, **secure data governance**, **interoper
 
 ---
 
-📌 Pinned Case Studies  
+## 📌 Pinned Case Studies
+
 Future Systems Lab showcases applied expertise in **digital health architecture**, **health informatics**, **wearable and sensor-driven systems**, **Web3 product management**, **blockchain governance**, and **data transparency frameworks**.
 
 ---
 
 ## ⌚ NeuroBalance Watch  
+
 **Category:** Wearable Digital Health R&D  
 **Focus:** On-Chain Consent • Biosensing • Orthomolecular Insight Engine  
 
 ### Summary  
+
 NeuroBalance is a next-generation wearable prototype that models biochemical precursors, captures user-controlled wellness signals, and anchors consent on-chain for transparent data governance.
 
 ### What It Demonstrates  
+
 - Smart contract architecture (Sepolia)  
 - User-controlled on-chain consent toggles  
-- Multi-analyte electrochemical sensor R&D  
+- Multi-analyte electrochemical sensor R&D:  
   - Amino-acid precursor detection  
   - pH microfluidics  
   - GSR, skin-temperature, HRV pathway  
@@ -37,98 +41,98 @@ NeuroBalance is a next-generation wearable prototype that models biochemical pre
 - Full concept flow: **contract → sensor → insight → UX**
 
 ### Ecosystem Alignment  
+
 Built on a user-controlled, on-chain consent model consistent with Future Systems Lab’s broader digital-health architecture.
 
 ### Repository  
-https://github.com/Future-Systems-Lab/NeuroBalance-Watch
+
+- [NeuroBalance Watch](https://github.com/Future-Systems-Lab/NeuroBalance-Watch)
 
 ---
 
 ## 🧪 CBD Continuum Retail  
+
 **Category:** Applied Retail Systems Design  
 **Focus:** Health Product Lifecycle • Consumer Data Integrity • Operations Analytics
 
 ### Summary  
+
 CBD Continuum was Apex, NC’s first CBD wellness retail store.  
 It demonstrated **evidence-based retail design**, **regulated-market compliance**, and **transparent product provenance** using verifiable COAs.
 
 ### Products & COAs  
-- Catalog: https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products  
-- COAs: https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products/COAs
+
+- [Product Catalog](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products)  
+- [Certificates of Analysis (COAs)](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products/COAs)
 
 ### Repository  
-https://github.com/Future-Systems-Lab/CBD-Continuum-Retail
+
+- [CBD Continuum Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail)
 
 ---
 
 ## 🧠 Mental Wellness Ecosystem  
+
 **Category:** Digital Health Systems Architecture  
 **Focus:** Blockchain Governance • Clinical Informatics • Secure Consent
 
 ### Summary  
-A decentralized mental-wellness network integrating behavioral science, clinical informatics, and verifiable credentials for patient consent and secure identity exchange.
 
-### Repositories  
-- https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse  
-- https://github.com/Future-Systems-Lab/HypnoNeuro  
-- https://github.com/Future-Systems-Lab/EncryptHealth
+A decentralized mental-wellness ecosystem that connects behavioral science, clinical informatics, and verifiable credentials for patient consent and secure identity exchange.
+
+### Core Repositories  
+
+- [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse) – ecosystem overview and architecture  
+- [HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) – modular engagement and credentialing framework  
+- [EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) – encrypted data and compliance-focused consent analytics  
 
 ---
 
-## 🧩 HypnoNeuro Modular Framework  
+## 🧩 HypnoNeuro Modular Framework (L1–L3)  
+
 **Category:** Decentralized Therapeutic Design  
 **Focus:** Tokenized Engagement • AI Personalization • Story-Based Reintegration
 
 ### Overview  
-A modular 3-layer framework for applied emotional processing, biochemical modeling, and narrative reintegration.  
-Each module ties to **HypnoNeuro** for rewards/credentialing and **EncryptHealth** for medication-change verification.
 
-### What’s Live Now  
+A 3-layer framework that links guided experience, biochemical modeling, and narrative work into a single digital-health architecture:
+
+- **L1 – Hypnosis Room:** present-moment focus and guided experience delivery  
+- **L2 – Orthomolecular Room:** nutritional and biochemical modeling with wallet-based flows  
+- **L3 – Narrative Room:** story-based emotional processing delivered through metaphor  
+
+### Live Demonstrations  
+
 - **L2 Orthomolecular Dashboard MVP**  
-  Wallet connect → medication confirmation → mood sliders → Analyze → educational insight.  
-  - Live: https://orthomolecular-dashboard-4xyc07ulv-megs-projects-95a11e5b.vercel.app  
-  - Repo: https://github.com/Future-Systems-Lab/Orthomolecular-Dashboard  
-  - Data model: JSON neuromodulator precursor map  
-  - Visualization: Recharts bar chart (Serotonin, Dopamine, GABA, Endorphins, ECS)  
-  - Tech: Next.js, React, TypeScript, Tailwind, Wagmi, Viem  
-  - Health check: `/api/health`  
-  - Disclaimer: Educational only; no medical advice.
+  - Live: [Orthomolecular Dashboard](https://orthomolecular-dashboard-4xyc07ulv-megs-projects-95a11e5b.vercel.app)  
+  - Repo: [Orthomolecular-Dashboard](https://github.com/Future-Systems-Lab/Orthomolecular-Dashboard)  
 
-### Roadmap (Phase 2)  
-- Cofactors (B6, Mg)  
-- Lifestyle & nutrient-density inputs  
-- Gut–brain axis modeling  
-- EncryptHealth consent integration  
-- HL7/FHIR interoperability  
-- Adaptive AI recommendations  
-
-### Layer Table  
-| Level | Module | Description | Demonstrations |
-|---|---|---|---|
-| **L1** | Hypnosis Room | Subconscious re-patterning | https://www.youtube.com/watch?v=xsGsPWgjbW4 |
-| **L2** | Orthomolecular Room | Nutritional and biochemical optimization | Live site · GitHub repo |
-| **L3** | Narrative Room | Emotional reintegration through metaphor | https://www.youtube.com/watch?v=y1kB5UT1ksA · Drive link |
+- **L1 / L3 Narrative Content**  
+  - L1 Visual Induction: [YouTube – Visual Induction Demo](https://www.youtube.com/watch?v=xsGsPWgjbW4)  
+  - L3 Narrative Demos: [EJ’s Path](https://www.youtube.com/watch?v=y1kB5UT1ksA) · [Isiah: The King](https://drive.google.com/file/d/1JdT6pN2gT5BzjQlCne8z5HilSPJ7vYsu/view?usp=sharing)
 
 ---
 
 ## ⭐ Featured  
 
 - **secure-health-login** — MetaMask auth (Next.js + Wagmi v2, EIP-712 ready)  
-  https://github.com/Future-Systems-Lab/secure-health-login
+  - Repo: [secure-health-login](https://github.com/Future-Systems-Lab/secure-health-login)
 
 - **VITA Token Activity Dashboard** — Dune analytics for on-chain KPIs  
+  - Platform: [Dune Analytics](https://dune.com/)
 
 - **openmrs-core** — FHIR/HL7 EHR  
-  Tested flows, consent notes, documentation fixes.
+  - Repo: [openmrs/openmrs-core](https://github.com/openmrs/openmrs-core)
 
 - **spellbook** — Dune/dbt blockchain analytics  
-  Label models, schema tests, incremental strategies.
+  - Repo: [duneanalytics/spellbook](https://github.com/duneanalytics/spellbook)
 
 - **ehrbase** — openEHR platform  
-  Template validation and compatibility testing.
+  - Repo: [ehrbase/ehrbase](https://github.com/ehrbase/ehrbase)
 
 ---
 
 ## 🔒 Access  
+
 Some repositories are private for IP protection and in-progress security audits.  
 Access is available upon request for reviewers, collaborators, and recruiters.
