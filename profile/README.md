@@ -11,33 +11,33 @@
 Future Systems Lab develops **digital health systems** that integrate **biosensing wearables**, **applied informatics**, and **blockchain-based consent**.  
 The lab combines **sensor engineering**, **secure data governance**, **interoperability**, and **intelligent analytics** to create transparent, traceable, and human-centered solutions across the healthcare ecosystem.
 
-
 ---
 
 📌 Pinned Case Studies  
 Future Systems Lab showcases applied expertise in **digital health architecture**, **health informatics**, **wearable and sensor-driven systems**, **Web3 product management**, **blockchain governance**, and **data transparency frameworks**.
-
 
 ---
 
 ## ⌚ NeuroBalance Watch  
 **Category:** Wearable Digital Health R&D  
 **Focus:** On-Chain Consent • Biosensing • Orthomolecular Insight Engine  
-**Integrations:** HypnoNeuro (L1–L3) • EncryptHealth (Consent & Governance)
 
 ### Summary  
-NeuroBalance is a next-generation wearable prototype that models biochemical precursors, collects user-controlled wellness signals, and anchors consent on-chain for transparent data governance.
+NeuroBalance is a next-generation wearable prototype that models biochemical precursors, captures user-controlled wellness signals, and anchors consent on-chain for transparent data governance.
 
 ### What It Demonstrates  
 - Smart contract architecture (Sepolia)  
-- On-chain consent toggles mapped to the wearable  
+- User-controlled on-chain consent toggles  
 - Multi-analyte electrochemical sensor R&D  
   - Amino-acid precursor detection  
   - pH microfluidics  
-  - GSR, skin-temp, HRV integration pathway  
+  - GSR, skin-temperature, HRV pathway  
 - Orthomolecular neuromodulator modeling  
 - React Native watch UI prototype  
-- Full flow from **contract → sensor → insight → UX**  
+- Full concept flow: **contract → sensor → insight → UX**
+
+### Ecosystem Alignment  
+Built on a user-controlled, on-chain consent model consistent with Future Systems Lab’s broader digital-health architecture.
 
 ### Repository  
 https://github.com/Future-Systems-Lab/NeuroBalance-Watch
