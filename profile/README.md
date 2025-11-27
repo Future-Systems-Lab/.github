@@ -108,7 +108,7 @@ A 3-layer framework that links guided experience, biochemical modeling, and narr
   - Repo: [Orthomolecular-Dashboard](https://github.com/Future-Systems-Lab/Orthomolecular-Dashboard)  
 
 - **L1 / L3 Narrative Content**  
-  - L1 Visual Induction: [YouTube – Visual Induction Demo](https://www.youtube.com/watch?v=xsGsPWgjbW4)  
+  - L1 Visual Induction: [Induction Demo](https://www.youtube.com/watch?v=xsGsPWgjbW4)  
   - L3 Narrative Demos: [EJ’s Path](https://www.youtube.com/watch?v=y1kB5UT1ksA) · [Isiah: The King](https://drive.google.com/file/d/1JdT6pN2gT5BzjQlCne8z5HilSPJ7vYsu/view?usp=sharing)
 
 ---
