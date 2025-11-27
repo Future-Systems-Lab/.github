@@ -78,7 +78,7 @@ It demonstrated **evidence-based retail design**, **regulated-market compliance*
 
 ### Summary  
 
-A decentralized mental-wellness ecosystem that connects behavioral science, clinical informatics, and verifiable credentials for patient consent and secure identity exchange.
+A decentralized mental-wellness ecosystem that connects behavioral science, clinical informatics, and verifiable credentials for consent and secure identity exchange.
 
 ### Core Repositories  
 
