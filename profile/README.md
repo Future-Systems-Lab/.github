@@ -14,9 +14,9 @@ The lab combines **sensor engineering**, **secure data governance**, **interoper
 
 ---
 
-# 📌 Pinned Case Studies
+📌 Pinned Case Studies  
+Future Systems Lab showcases applied expertise in **digital health architecture**, **health informatics**, **wearable and sensor-driven systems**, **Web3 product management**, **blockchain governance**, and **data transparency frameworks**.
 
-Future Systems Lab showcases applied expertise in **digital health architecture**, **health informatics**, **Web3 product management**, **blockchain governance**, and **data transparency systems**.
 
 ---
 
