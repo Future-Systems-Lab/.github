@@ -19,6 +19,27 @@ Evolving from wellness product design to digital health architecture, the lab ad
 
 ---
 
+## ⌚ NeuroBalance Watch
+**Category:** Wearable Digital Health R&D  
+**Focus:** On-Chain Consent • Biosensing Precursors • Orthomolecular Insight Engine
+
+**Summary:**  
+A next-generation educational wearable prototype integrating on-chain consent, amino-acid precursor biosensing (R&D), and a modular React Native watch interface.  
+NeuroBalance models precursor activity for dopamine, serotonin, GABA, endorphins, and the endocannabinoid system (ECS), generating human-readable orthomolecular insights without clinical claims.
+
+**What It Demonstrates:**  
+- Smart contract architecture (Sepolia)  
+- Consent governance for wearables  
+- Multi-analyte electrochemical sensor R&D  
+- Orthomolecular neuromodulator modeling  
+- Full demo (screenshots + video)  
+- A polished product flow from contract → data → UX  
+
+**Repository:**  
+https://github.com/Future-Systems-Lab/NeuroBalance-Watch
+
+---
+
 ## 🧪 CBD Continuum Retail
 **Category:** Applied Retail Systems Design  
 **Focus:** Health Product Lifecycle • Consumer Data Integrity • Operations Analytics
