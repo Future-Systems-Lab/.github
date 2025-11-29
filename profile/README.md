@@ -167,9 +167,6 @@ CBD Continuum was Apex, NC’s first CBD retail store, now a complete case study
 ## 🟩 Smart Contract Source  
 https://github.com/Future-Systems-Lab/Future-Systems-Lab/tree/main/contracts
 
-## 🟦 Sourcify Registry  
-https://repo.sourcify.dev/11155111/
-
 ## 🟧 Architecture Layers  
 - Blockchain Layer  
   https://github.com/Future-Systems-Lab/Future-Systems-Lab/blob/main/architecture/Blockchain-Layer.md  
