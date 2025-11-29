@@ -30,7 +30,7 @@ Future Systems Lab demonstrates applied expertise in:
 
 ---
 
-## 📌 Pinned Case Studies
+# 📌 Pinned Case Studies
 
 ---
 
@@ -130,7 +130,7 @@ It serves as a product and operations case study showcasing **regulated-market c
 
 ---
 
-## 🔐 Verified Smart Contracts (Sepolia)
+# 🔐 Verified Smart Contracts (Sepolia)
 
 Future Systems Lab maintains a unified registry of all verified on-chain contracts used across HypnoNeuro, EncryptHealth, InstaPsych, NeuroBalance Watch, and the Orthomolecular Dashboard.  
 Each contract is verified for transparency and ecosystem interoperability.
