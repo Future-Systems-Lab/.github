@@ -130,6 +130,56 @@ A multi-layer experience system integrating sensory engagement, adaptive persona
 
 ---
 
+# 🔐 Verified Smart Contracts (Sepolia)
+
+Future Systems Lab maintains a unified registry of all verified on-chain contracts used across HypnoNeuro, EncryptHealth, InstaPsych, NeuroBalance Watch, and the Orthomolecular Dashboard.  
+Each contract is verified for transparency and ecosystem interoperability.
+
+---
+
+## **🧩 Core ERC-20 Tokens**
+### **EncryptHealthToken (EHT)**
+- **Address:** `0xbDaeb1d05E02D2751Ad07121510b5f0C436E2CdC`  
+- **Sourcify:** https://repo.sourcify.dev/11155111/0xbDaeb1d05E02D2751Ad07121510b5f0C436E2CdC/  
+
+### **HypnoNeuroToken (HNT)**
+- **Address:** `0x411426f8E735F7940B20491609F08817A805b198`  
+- **Sourcify:** https://repo.sourcify.dev/11155111/0x411426f8E735F7940B20491609F08817A805b198/  
+
+---
+
+## **🎭 NFT Credentialing**
+### **MindMasteryNFT (L1–L3)**
+- **Address:** `0xCb9EcB00574DB29976c7C54045d443666D5C7771`  
+- **Sourcify:** https://repo.sourcify.dev/11155111/0xCb9EcB00574DB29976c7C54045d443666D5C7771/  
+
+---
+
+## **📊 Activity Logging & Device Integration**
+### **UserActivity.sol**
+- **Address:** `0xF63e9400807184e726445E105EC7a6C6Af1a86fB`  
+- **Sourcify:** https://repo.sourcify.dev/11155111/0xF63e9400807184e726445E105EC7a6C6Af1a86fB/  
+
+---
+
+## **⚖️ Compliance & Consent Governance**
+### **ConsentPolicy.sol**
+- **Address:** `0xf57190E2FEd57190d89aD63eE21B718354D3EeF1`  
+- **Sourcify:** https://repo.sourcify.dev/11155111/0xf57190E2FEd57190d89aD63eE21B718354D3EeF1/  
+
+---
+
+These contracts collectively implement:
+- Tokenomics  
+- NFT-based progression  
+- Consent governance  
+- Device identity  
+- Activity logging  
+- Compliance modeling  
+- Cross-project interoperability  
+
+---
+
 ## ⭐ Featured Contributions
 
 - **secure-health-login** — MetaMask auth (Next.js + Wagmi v2, EIP-712 ready)  
