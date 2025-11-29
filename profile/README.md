@@ -182,6 +182,49 @@ These contracts collectively implement:
 
 ---
 
+# 🔍 Global Verification Index
+
+This index provides source-of-truth locations for all smart contracts, SQL schemas, and architecture layers used throughout the Future Systems Lab ecosystem.
+
+## 🟩 Smart Contract Source (All Contracts)
+https://github.com/Future-Systems-Lab/Future-Systems-Lab/tree/main/contracts
+
+## 🟦 Sourcify Verification (Sepolia)
+https://repo.sourcify.dev/11155111/
+
+## 🟧 Architecture Layers
+- **Blockchain Architecture Layer**  
+  https://github.com/Future-Systems-Lab/Future-Systems-Lab/blob/main/architecture/Blockchain-Layer.md
+
+- **Data Layer Architecture**  
+  https://github.com/Future-Systems-Lab/Future-Systems-Lab/blob/main/architecture/Data-Layer.md
+
+- **Security & Privacy Layer**  
+  https://github.com/Future-Systems-Lab/Future-Systems-Lab/blob/main/architecture/Security-Privacy-Layer.md
+
+- **Wearables & Sensor Layer**  
+  https://github.com/Future-Systems-Lab/Future-Systems-Lab/blob/main/architecture/Wearables-Sensor-Layer.md
+
+- **Full System Diagram**  
+  https://github.com/Future-Systems-Lab/Future-Systems-Lab/blob/main/architecture/Full-System-Diagram.md
+
+## 🟨 SQL Schema (Off-Chain Relational Model)
+https://github.com/Future-Systems-Lab/Future-Systems-Lab/blob/main/architecture/Data-Layer.md#20-relational-schema-sqlite
+
+---
+
+This index provides a complete verification trail across:
+- on-chain smart contracts  
+- off-chain relational structures  
+- Sourcify authenticity proofs  
+- architecture documentation layers  
+- consent + compliance logic  
+- wearable/device governance  
+
+Together, these form a fully transparent, reproducible, and reviewer-ready system demonstrating applied digital-health architecture.
+
+---
+
 # 🔒 Privacy, Security & Compliance Framework
 
 Future Systems Lab applies a unified privacy and security design across all prototypes to demonstrate how modern digital-health systems maintain transparency, data integrity, and user protection while remaining non-clinical and educational in nature.
