@@ -6,7 +6,7 @@
 
 ---
 
-## 🥼 About Future Systems Lab
+# 🥼 About Future Systems Lab
 
 Future Systems Lab builds **digital health and data-governance systems** integrating **applied informatics**, **wearable concept design**, **blockchain-based consent**, **analytics**, and **secure architectures**.  
 The work spans **system design**, **product development**, **interoperability**, **human-centered UX**, and **transparent data flows** across the healthcare and wellness ecosystem.
@@ -130,7 +130,7 @@ A multi-layer experience system integrating sensory engagement, adaptive persona
 
 ---
 
-# 🔐 Verified Smart Contracts (Sepolia)
+## 🔐 Verified Smart Contracts (Sepolia)
 
 Future Systems Lab maintains a unified registry of all verified on-chain contracts used across HypnoNeuro, EncryptHealth, InstaPsych, NeuroBalance Watch, and the Orthomolecular Dashboard.  
 Each contract is verified for transparency and ecosystem interoperability.
