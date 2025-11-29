@@ -229,11 +229,12 @@ Detailed architecture files are available in the `architecture/` directory:
 Future Systems Lab maintains full architectural documentation for every major subsystem.  
 These files are located in the `architecture/` directory of this project:
 
-- [Blockchain Architecture Layer](architecture/Blockchain-Layer.md)
-- [Data Layer Architecture](architecture/Data-Layer.md)
-- [Security & Privacy Layer](architecture/Security-Privacy-Layer.md)
-- [Wearables & Sensor Layer](architecture/Wearables-Sensor-Layer.md)
-- [Full System Diagram](architecture/Full-System-Diagram.md)
+-- [Blockchain Architecture Layer](../../architecture/Blockchain-Layer.md)
+- [Data Layer Architecture](../../architecture/Data-Layer.md)
+- [Security & Privacy Layer](../../architecture/Security-Privacy-Layer.md)
+- [Wearables & Sensor Layer](../../architecture/Wearables-Sensor-Layer.md)
+- [Full System Diagram](../../architecture/Full-System-Diagram.md)
+
 
  
 
