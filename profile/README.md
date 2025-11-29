@@ -79,23 +79,6 @@ NeuroBalance is a conceptual brain-health wearable demonstrating how future syst
 
 ---
 
-## 🧪 CBD Continuum Retail  
-**Category:** Applied Retail Systems & Data Integrity  
-**Focus:** Supply Chain Transparency • Product Lifecycle • Analytics & Provenance
-
-### Summary  
-CBD Continuum was Apex, NC’s first CBD wellness retail store.  
-It serves as a product and operations case study showcasing **regulated-market compliance**, **analytics**, and **transparent supply-chain provenance** using verifiable COAs.
-
-### Products & COAs  
-- [Product Catalog](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products)  
-- [Certificates of Analysis (COAs)](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products/COAs)
-
-### Repository  
-- [CBD Continuum Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail)
-
----
-
 ## 🧠 Mental Wellness Ecosystem  
 **Category:** Digital Health Systems Architecture  
 **Focus:** Blockchain Governance • Clinical & Data Informatics • Secure Consent Flows
@@ -127,6 +110,23 @@ A multi-layer experience system integrating sensory engagement, adaptive persona
   - L3 Narrative Demos:  
     - [EJ’s Path](https://www.youtube.com/watch?v=y1kB5UT1ksA)  
     - [Isiah: The King](https://drive.google.com/file/d/1JdT6pN2gT5BzjQlCne8z5HilSPJ7vYsu/view?usp=sharing)
+
+---
+
+## 🧪 CBD Continuum Retail  
+**Category:** Applied Retail Systems & Data Integrity  
+**Focus:** Supply Chain Transparency • Product Lifecycle • Analytics & Provenance
+
+### Summary  
+CBD Continuum was Apex, NC’s first CBD wellness retail store.  
+It serves as a product and operations case study showcasing **regulated-market compliance**, **analytics**, and **transparent supply-chain provenance** using verifiable COAs.
+
+### Products & COAs  
+- [Product Catalog](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products)  
+- [Certificates of Analysis (COAs)](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products/COAs)
+
+### Repository  
+- [CBD Continuum Retail](https://github.com/Future-Systems-Lab/CBD-Continuum-Retail)
 
 ---
 
