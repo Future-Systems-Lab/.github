@@ -180,6 +180,63 @@ These contracts collectively implement:
 
 ---
 
+---
+
+# 🔒 Privacy, Security & Compliance Framework
+
+Future Systems Lab applies a unified privacy and security design across all prototypes to demonstrate how modern digital-health systems maintain transparency, data integrity, and user protection while remaining non-clinical and educational in nature.
+
+### **HIPAA-Informed Design (No PHI On-Chain)**
+- Zero identifiable health information is ever written to the blockchain  
+- All sensitive data stored off-chain with encryption and role-based access  
+- Access logs retained for audit modeling  
+- User identity abstracted through wallet/DID pseudonymization
+
+### **GDPR-Aligned Data Handling**
+- Pseudonymization of all user identifiers  
+- Data minimization: only hashes and references stored on-chain  
+- Consent revocation represented through on-chain events  
+- Erasure handled entirely off-chain with clean deletion pathways
+
+### **SaMD Awareness (Educational Modeling)**
+- Transparent, traceable session logic  
+- Clearly defined data flows and algorithm boundaries  
+- Demonstrates how wellness-oriented prototypes could interface with regulated frameworks  
+- Maintains non-diagnostic, non-clinical positioning
+
+### **ALCOA Data Integrity Principles**
+- **Attributable:** User actions tied to wallet signatures  
+- **Legible:** Structured event definitions for all interactions  
+- **Contemporaneous:** All blockchain and off-chain events timestamped  
+- **Original:** On-chain logs provide immutable originals  
+- **Accurate:** Hash-linked verification for session, consent, and device data
+
+### **EIP-712 Consent Governance**
+- Typed structured consent signatures  
+- On-chain event registry for consent + revocation  
+- DID/VC-compatible identity modeling  
+- Serves as the compliance backbone across the ecosystem (HypnoNeuro, EncryptHealth, InstaPsych, Wearables)
+
+Detailed architecture files are available in the `architecture/` directory:
+- Blockchain Architecture Layer  
+- Security & Privacy Layer  
+- Data Layer Architecture  
+- Wearables & Sensor Layer  
+- Full-System Diagram  
+
+### 📁 Architecture Documentation
+
+Future Systems Lab maintains full architectural documentation for every major subsystem.  
+These files are located in the `architecture/` directory of this project:
+
+- [Blockchain Architecture Layer](architecture/Blockchain-Layer.md)  
+- [Data Layer Architecture](architecture/Data-Layer.md)  
+- [Security & Privacy Layer](architecture/Security-Privacy-Layer.md)  
+- [Wearables & Sensor Layer](architecture/Wearables-Sensor-Layer.md)  
+- [Full System Diagram](architecture/Full-System-Diagram.md)  
+
+---
+
 ## ⭐ Featured Contributions
 
 - **secure-health-login** — MetaMask auth (Next.js + Wagmi v2, EIP-712 ready)  
