@@ -8,10 +8,31 @@ cat > README.md << 'EOF'
 
 ---
 
-# 🥼 About Future Systems Lab
+## 🧭 Mission, Vision & Values
 
-Future Systems Lab builds **digital health and data-governance systems** integrating **applied informatics**, **wearable concept design**, **blockchain-based consent**, **analytics**, and **secure architectures**.  
-The work spans **system design**, **product development**, **interoperability**, **human-centered UX**, and **transparent data flows** across the healthcare and wellness ecosystem.
+### **Mission**
+Future Systems Lab advances human-centered digital health by integrating applied informatics, decentralized identity, and blockchain-based consent systems to strengthen transparency, trust, and safety in modern care.
+
+### **Vision**
+To create a healthcare ecosystem where every individual controls their data, every system is interoperable, and every digital interaction is secured, verifiable, and emotionally safe—powered by intelligent, dignified, and equitable technology.
+
+### **Core Values**
+- **Integrity:** Data accuracy, reproducibility, and verifiable transparency.  
+- **Safety:** Emotional safety through metaphor instead of direct re-exposure.  
+- **Interoperability:** Open standards, FHIR alignment, and decentralized consent.  
+- **Innovation:** Applied research across blockchain, AI, sensory design, and informatics.  
+- **Human-Centered Design:** Systems built for clarity, autonomy, and empowerment.
+
+### **Value Proposition**
+Future Systems Lab delivers secure, interoperable, blockchain-enabled digital-health systems that combine advanced analytics, decentralized consent, and human-centered design—resulting in transparent workflows, audit-ready data, and emotionally safe user experiences.
+
+### **Strategic Pillars**
+- **Decentralized Consent & Governance (DID/VC, FHIR-based consent logs)**  
+- **Secure Digital Health Infrastructure (tokenization, blockchain integrity, auditability)**  
+- **Wearable & Sensor Innovation (neuro-regulation, orthomolecular mapping, on-chain telemetry)**  
+- **AI-Enhanced Clinical & Wellness Analytics (interpretable models, safe feedback loops)**  
+- **Human-Computer Interaction & Sensory UX (hypnotic interfaces, adaptive micro-protocols)**  
+
 
 ---
 
