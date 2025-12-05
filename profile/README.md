@@ -202,25 +202,6 @@ https://github.com/Future-Systems-Lab/Future-Systems-Lab/tree/main/contracts
 
 ---
 
-# ⭐ Featured Contributions
-
-- **secure-health-login**  
-  https://github.com/Future-Systems-Lab/secure-health-login  
-
-- **openmrs-core**  
-  https://github.com/openmrs/openmrs-core  
-
-- **spellbook**  
-  https://github.com/duneanalytics/spellbook  
-
-- **ehrbase**  
-  https://github.com/ehrbase/ehrbase  
-
-- **VITA Token Dashboard**  
-  https://dune.com/  
-
----
-
 # 🔒 Security, Privacy & Compliance Framework
 
 ### HIPAA-Informed  
@@ -250,14 +231,20 @@ https://github.com/Future-Systems-Lab/Future-Systems-Lab/tree/main/contracts
 
 ## 2. Security & Privacy Layer
 [security-layer-diagram.png](architecture/security-layer/security-layer-diagram.png)  
+[security_and_privacy_layer.png](architecture/diagrams/security_and_privacy_layer.png)  
+[security_and_privacy_layer.mmd](architecture/mermaid/security_and_privacy_layer.mmd)  
 [README.md](architecture/security-layer/README.md)
 
 ## 3. Wearables Layer (NeuroBalance Watch)
 [wearables-layer-diagram.png](architecture/wearables-layer/wearables-layer-diagram.png)  
+[wearables_and_sensor_layer.png](architecture/diagrams/wearables_and_sensor_layer.png)  
+[wearables_and_sensor_layer.mmd](architecture/mermaid/wearables_and_sensor_layer.mmd)  
 [README.md](architecture/wearables-layer/README.md)
 
 ## 4. Full Ecosystem Architecture
 [full-ecosystem-diagram.png](architecture/full-ecosystem/full-ecosystem-diagram.png)  
+[full_system_architecture.png](architecture/diagrams/full_system_architecture.png)  
+[full_system_architecture.mmd](architecture/mermaid/full_system_architecture.mmd)  
 [README.md](architecture/full-ecosystem/README.md)
 
 ## 5. Orthomolecular AI Architecture
@@ -267,3 +254,34 @@ https://github.com/Future-Systems-Lab/Future-Systems-Lab/tree/main/contracts
 ## Data Layer ERD
 [data-layer-erd.png](architecture/diagrams/data-layer-erd.png)
 
+---
+
+## Verification & Reproducibility
+
+Each architecture PNG has a matching Mermaid source file to ensure reproducibility.
+
+To verify a diagram:
+1. Open the matching `.mmd` file from `architecture/mermaid/`
+2. Paste its contents into Mermaid Live Editor
+3. Confirm it renders identically to the PNG
+
+This supports academic reproducibility, system governance alignment, and documentation traceability across all layers (Security, Wearables, Full System, Blockchain, AI/Data).
+
+---
+
+# ⭐ Featured Contributions
+
+- **secure-health-login**  
+  https://github.com/Future-Systems-Lab/secure-health-login  
+
+- **openmrs-core**  
+  https://github.com/openmrs/openmrs-core  
+
+- **spellbook**  
+  https://github.com/duneanalytics/spellbook  
+
+- **ehrbase**  
+  https://github.com/ehrbase/ehrbase  
+
+- **VITA Token Dashboard**  
+  https://dune.com/  
