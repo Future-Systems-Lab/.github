@@ -245,25 +245,25 @@ https://github.com/Future-Systems-Lab/Future-Systems-Lab/tree/main/contracts
 # 🧱 Architecture Layers (System Index)
 
 ## 1. Blockchain Layer
-architecture/blockchain-layer/blockchain-layer-diagram.png  
-architecture/blockchain-layer/README.md
+[blockchain-layer-diagram.png](architecture/blockchain-layer/blockchain-layer-diagram.png)  
+[README.md](architecture/blockchain-layer/README.md)
 
 ## 2. Security & Privacy Layer
-architecture/security-layer/security-layer-diagram.png  
-architecture/security-layer/README.md
+[security-layer-diagram.png](architecture/security-layer/security-layer-diagram.png)  
+[README.md](architecture/security-layer/README.md)
 
 ## 3. Wearables Layer (NeuroBalance Watch)
-architecture/wearables-layer/wearables-layer-diagram.png  
-architecture/wearables-layer/README.md
+[wearables-layer-diagram.png](architecture/wearables-layer/wearables-layer-diagram.png)  
+[README.md](architecture/wearables-layer/README.md)
 
 ## 4. Full Ecosystem Architecture
-architecture/full-ecosystem/full-ecosystem-diagram.png  
-architecture/full-ecosystem/README.md
+[full-ecosystem-diagram.png](architecture/full-ecosystem/full-ecosystem-diagram.png)  
+[README.md](architecture/full-ecosystem/README.md)
 
 ## 5. Orthomolecular AI Architecture
-architecture/orthomolecular-ai/orthomolecular-ai-diagram.png  
-architecture/orthomolecular-ai/README.md
+[orthomolecular-ai-diagram.png](architecture/orthomolecular-ai/orthomolecular-ai-diagram.png)  
+[README.md](architecture/orthomolecular-ai/README.md)
 
 ## Data Layer ERD
-architecture/diagrams/data-layer-erd.png
+[data-layer-erd.png](architecture/diagrams/data-layer-erd.png)
 
