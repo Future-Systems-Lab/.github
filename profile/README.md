@@ -242,9 +242,28 @@ https://github.com/Future-Systems-Lab/Future-Systems-Lab/tree/main/contracts
 
 ---
 
-# 📁 Architecture Documentation  
-All system architecture files are located under:
+# 🧱 Architecture Layers (System Index)
 
-https://github.com/Future-Systems-Lab/Future-Systems-Lab/tree/main/architecture
+## 1. Blockchain Layer
+architecture/blockchain-layer/blockchain-layer-diagram.png  
+architecture/blockchain-layer/README.md
 
-EOF
+## 2. Security & Privacy Layer
+architecture/security-layer/security-layer-diagram.png  
+architecture/security-layer/README.md
+
+## 3. Wearables Layer (NeuroBalance Watch)
+architecture/wearables-layer/wearables-layer-diagram.png  
+architecture/wearables-layer/README.md
+
+## 4. Full Ecosystem Architecture
+architecture/full-ecosystem/full-ecosystem-diagram.png  
+architecture/full-ecosystem/README.md
+
+## 5. Orthomolecular AI Architecture
+architecture/orthomolecular-ai/orthomolecular-ai-diagram.png  
+architecture/orthomolecular-ai/README.md
+
+## Data Layer ERD
+architecture/diagrams/data-layer-erd.png
+
