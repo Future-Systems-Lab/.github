@@ -1,5 +1,5 @@
 cd ~/Future-Systems-Lab
-cat > README.md << 'EOF'
+
 <!-- Rights Reserved, Unlicensed -->
 
 <p align="center">
