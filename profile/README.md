@@ -97,8 +97,8 @@ NeuroBalance is a conceptual brain-health wearable demonstrating how future syst
 - Signal-to-interface mapping concepts  
 - Health informatics thinking applied to personal health devices
 
-### Repository  
-- https://github.com/Future-Systems-Lab/NeuroBalance-Watch
+- ### Repository Promo Video
+https://youtu.be/j0NADxg_hGE
 
 ---
 
