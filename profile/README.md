@@ -85,7 +85,7 @@ Future Systems Lab demonstrates applied expertise in:
 
 ---
 
-📌 **Pinned Case Studies**
+ ## 📌 Pinned Case Studies 
 
 🧠 **Mental Wellness Ecosystem**  
 **Category:** Digital Health Systems Architecture  
