@@ -85,21 +85,32 @@ Future Systems Lab demonstrates applied expertise in:
 
 ---
 
-# 📌 Pinned Case Studies
+📌 **Pinned Case Studies**
+
+🧠 **Mental Wellness Ecosystem**  
+**Category:** Digital Health Systems Architecture  
+**Focus:** Blockchain Governance • Clinical & Data Informatics • Secure Consent Flows • Wearables Integration
+
+**Summary**  
+A decentralized health and wellness architecture integrating behavioral science, orthomolecular medicine, decentralized identity, wearable biosignals, blockchain audit trails, and secure HL7/FHIR-based data exchange.  
+Showcases full-stack capabilities across UX/UI, AI pipelines, blockchain smart contracts, FHIR parsing, governance, and clinical workflow design — demonstrated in an interactive recruiter dashboard.
+
+### 🔗 **System Dashboard (Figma Prototype — Invite Only)**  
+https://www.figma.com/make/XIMX6irVHhjILelWLctUdW/EncryptHealth-Visualization-Panel
 
 ---
 
-## 🧠 Mental Wellness Ecosystem  
-**Category:** Digital Health Systems Architecture  
-**Focus:** Blockchain Governance • Clinical & Data Informatics • Secure Consent Flows
+### **Core Repositories**
 
-### Summary  
-A decentralized mental-wellness architecture that connects **behavioral science**, **consent governance**, **decentralized identity**, and **secure standards-based data exchange**.
+🔹 **EncryptHealth**  
+https://github.com/Future-Systems-Lab/EncryptHealth  
 
-### Core Repositories  
-- https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse  
-- https://github.com/Future-Systems-Lab/HypnoNeuro  
-- https://github.com/Future-Systems-Lab/EncryptHealth
+🔹 **HypnoNeuro**  
+https://github.com/Future-Systems-Lab/HypnoNeuro  
+
+🔹 **Where Mental Wellness Meets the Metaverse**  
+https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse  
+
 
 ---
 
