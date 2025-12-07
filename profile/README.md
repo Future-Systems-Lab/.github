@@ -89,6 +89,22 @@ Future Systems Lab demonstrates applied expertise in:
 
 ---
 
+---
+
+## 🧠 Mental Wellness Ecosystem  
+**Category:** Digital Health Systems Architecture  
+**Focus:** Blockchain Governance • Clinical & Data Informatics • Secure Consent Flows
+
+### Summary  
+A decentralized mental-wellness architecture that connects **behavioral science**, **consent governance**, **decentralized identity**, and **secure standards-based data exchange**.
+
+### Core Repositories  
+- https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse  
+- https://github.com/Future-Systems-Lab/HypnoNeuro  
+- https://github.com/Future-Systems-Lab/EncryptHealth
+
+---
+
 ## 🧠 InstaPsych System  
 **Category:** Sensation-Driven Interaction Design  
 **Focus:** Adaptive Sensory UX • Interaction Flow Design • Applied Informatics • UX Research
@@ -131,20 +147,6 @@ NeuroBalance is a conceptual brain-health wearable demonstrating how future syst
 
 ### Live Demo
 - **YouTube Demo:** https://youtu.be/j0NADxg_hGE
-
----
-
-## 🧠 Mental Wellness Ecosystem  
-**Category:** Digital Health Systems Architecture  
-**Focus:** Blockchain Governance • Clinical & Data Informatics • Secure Consent Flows
-
-### Summary  
-A decentralized mental-wellness architecture that connects **behavioral science**, **consent governance**, **decentralized identity**, and **secure standards-based data exchange**.
-
-### Core Repositories  
-- https://github.com/Future-Systems-Lab/Where-Mental-Wellness-Meets-Metaverse  
-- https://github.com/Future-Systems-Lab/HypnoNeuro  
-- https://github.com/Future-Systems-Lab/EncryptHealth  
 
 ---
 
