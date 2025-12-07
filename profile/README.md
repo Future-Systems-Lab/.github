@@ -10,28 +10,28 @@
 
 <p align="center">
 
-  <!-- Org Focus -->
-  <a href="https://github.com/Future-Systems-Lab">
+  <!-- Digital Health Focus -->
+  <a href="https://github.com/Future-Systems-Lab?tab=repositories">
     <img src="https://img.shields.io/badge/Focus-Digital_Health-purple" />
   </a>
 
-  <!-- Web3 + AI -->
-  <a href="https://github.com/Future-Systems-Lab">
+  <!-- Web3 + AI + FHIR -->
+  <a href="https://github.com/topics/web3">
     <img src="https://img.shields.io/badge/Tech-Web3_%7C_AI_%7C_FHIR-blue" />
   </a>
 
-  <!-- Multi-Platform Ecosystem -->
-  <a href="https://github.com/Future-Systems-Lab">
-    <img src="https://img.shields.io/badge/Ecosystem-EncryptHealth_%7C_HypnoNeuro_%7C_AI-orange" />
+  <!-- Ecosystem (3 major platforms) -->
+  <a href="https://github.com/Future-Systems-Lab?tab=repositories">
+    <img src="https://img.shields.io/badge/Ecosystem-EncryptHealth_•_HypnoNeuro_•_AI-orange" />
   </a>
 
-  <!-- Smart Contracts -->
+  <!-- Blockchain (Sepolia) -->
   <a href="https://eth-sepolia.blockscout.com/">
     <img src="https://img.shields.io/badge/Blockchain-Sepolia-lightgrey" />
   </a>
 
-  <!-- Repository Architecture -->
-  <a href="https://github.com/Future-Systems-Lab">
+  <!-- Multi-Module Repos -->
+  <a href="https://github.com/Future-Systems-Lab?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-Multi_Module-green" />
   </a>
 
