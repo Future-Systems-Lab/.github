@@ -89,8 +89,6 @@ Future Systems Lab demonstrates applied expertise in:
 
 ---
 
----
-
 ## 🧠 Mental Wellness Ecosystem  
 **Category:** Digital Health Systems Architecture  
 **Focus:** Blockchain Governance • Clinical & Data Informatics • Secure Consent Flows
