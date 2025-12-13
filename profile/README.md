@@ -338,4 +338,26 @@ This supports academic reproducibility, system governance alignment, and documen
   https://github.com/ehrbase/ehrbase  
 
 - **VITA Token Dashboard**  
-  https://dune.com/  
+  https://dune.com/
+
+  ---
+
+  ## 🗄️ Archived & Historical Case Studies
+
+### Anonymous Therapy Prototype
+
+Archived portfolio artifact exploring **privacy-first wellness services**, early Web3 payment concepts, and trauma-informed UX design.
+
+This prototype represents **early-stage work** that informed later systems developed within Future Systems Lab, including EncryptHealth and HypnoNeuro—particularly around:
+- anonymous user flows  
+- ethical service design  
+- privacy preservation  
+- transition from traditional wellness models to decentralized governance  
+
+🔒 **Status:** Retired / Archived  
+🧪 **Use:** Educational and portfolio reference only  
+🚫 **Note:** Not an active service, clinical offering, or payment platform  
+
+Repository:  
+https://github.com/Future-Systems-Lab/anonymous-therapy-prototype
+
