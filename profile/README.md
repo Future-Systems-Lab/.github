@@ -157,6 +157,9 @@ NeuroBalance is a conceptual brain-health wearable demonstrating how future syst
 ### Live Demo
 - **YouTube Demo:** https://youtu.be/j0NADxg_hGE
 
+### Repository   
+-  https://github.com/Future-Systems-Lab/NeuroBalance-Watch
+
 ---
 
 ## 🧩 HypnoNeuro Modular Framework (L1–L3)  
