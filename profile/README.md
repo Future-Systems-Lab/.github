@@ -1,142 +1,119 @@
----
+<!-- Rights Reserved, Unlicensed -->
 
-# 🧱 Architecture Layers (System Index)
-
-The Future Systems Lab architecture is documented as a **layered, modular system** spanning blockchain, security, data, wearables, and AI analytics.
-
-To protect **pre-commercial IP, security design, and governance logic**, detailed diagrams and source files are maintained in **private, invite-only repositories**.
+<p align="center">
+  <img src="./assets/future-systems-lab-banner.jpg" alt="Future Systems Lab" width="1000">
+</p>
 
 ---
 
-## 📐 Public Architecture Overview (High-Level)
-
-The following layers represent the system structure at a **conceptual and educational level**.  
-Detailed diagrams, Mermaid source files, and implementation notes are available **upon request**.
-
-### 1. Blockchain Layer
-**Scope:**
-- Wallet-based identity (EVM-compatible)
-- On-chain consent registry
-- Tokenized audit events
-- Non-PHI transaction logging
-
-**Status:**  
-Private diagrams and contracts (invite-only)
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Digital_Health-purple" />
+  <img src="https://img.shields.io/badge/Tech-Web3_%7C_AI_%7C_FHIR-blue" />
+  <img src="https://img.shields.io/badge/Ecosystem-EncryptHealth_%E2%80%A2_HypnoNeuro_%E2%80%A2_NeuroBalance-orange" />
+  <img src="https://img.shields.io/badge/Blockchain-Sepolia-lightgrey" />
+</p>
 
 ---
 
-### 2. Security & Privacy Layer
-**Scope:**
-- Wallet-based pseudonymization
-- Consent gating
-- On-chain revocation events
-- Off-chain encrypted storage boundaries
+# Future Systems Lab
 
-**Frameworks Referenced:**
-- HIPAA-informed (no PHI on-chain)
-- GDPR-aligned (data minimization, revocation)
-- ALCOA principles (audit integrity)
+**Future Systems Lab** is a digital health R&D studio focused on building  
+**privacy-first, human-centered systems** at the intersection of:
 
-**Status:**  
-Private security architecture (invite-only)
+- Applied health informatics  
+- Decentralized identity & consent  
+- Blockchain governance  
+- AI-assisted analytics  
+- Trauma-informed UX design  
+
+This organization serves as a **portfolio, research archive, and selective open-source hub** for pre-commercial health technology systems.
 
 ---
 
-### 3. Wearables & Sensors Layer (NeuroBalance Watch)
-**Scope:**
-- Consent-aware wearable ingestion
-- Wellness-grade sensor modeling
-- Educational biomarker visualization
-- Explicit user permission controls
+## 🧭 Mission & Vision
 
-**Status:**  
-Private R&D diagrams and prototypes (invite-only)
+### Mission
+Advance secure, ethical digital health systems that return **control, transparency, and dignity** to individuals.
 
----
-
-### 4. Full Ecosystem Architecture
-**Scope:**
-- End-to-end system flow
-- Identity → Consent → Analytics → Governance
-- Modular separation of clinical, educational, and research layers
-
-**Status:**  
-Private system diagrams (invite-only)
+### Vision
+A future where:
+- Users own their data  
+- Consent is explicit and verifiable  
+- Systems are interoperable by design  
+- Emotional safety is preserved through metaphor, not re-exposure  
 
 ---
 
-### 5. Orthomolecular AI Architecture
-**Scope:**
-- Educational neurotransmitter modeling
-- Pattern-based (non-diagnostic) insights
-- AI-assisted visualization
-- Governance-aware analytics design
+## 🧩 Core Platforms
 
-**Status:**  
-Private AI architecture and notebooks (invite-only)
+### 🔐 EncryptHealth  
+Privacy-first consent, identity, and analytics infrastructure  
+*FHIR/HL7-aware • Wallet-based • Governance-ready*
 
----
+### 🧠 HypnoNeuro  
+Gamified mental-wellness education using tokenized progress and trauma-informed design
 
-## 🧬 Data Layer (Conceptual)
-
-**Design Principles:**
-- No PHI on-chain
-- Pseudonymous identifiers
-- Separation of identity, consent, and analytics
-- Auditability without clinical exposure
-
-**Artifacts:**
-- ERD diagrams
-- Consent-linked session models
-- Analytics-ready schemas
-
-**Status:**  
-Private ERDs and schemas (invite-only)
+### ⌚ NeuroBalance  
+Wearable-inspired R&D exploring consent-aware biosensing and educational neurochemical modeling
 
 ---
 
-## 🔒 Security, Privacy & Compliance Framework
+## 🧱 Architecture (High-Level)
 
-### HIPAA-Informed
-- No protected health information stored on-chain  
-- Encrypted off-chain storage only  
-- Wallet-based pseudonymous identity  
+Future Systems Lab systems are designed as a **layered, modular architecture**:
 
-### GDPR-Aligned
-- Data minimization  
-- Explicit consent toggles  
-- On-chain revocation events  
+- Blockchain & identity layer  
+- Security & privacy layer  
+- Data & analytics layer  
+- Wearables & sensor layer  
+- AI / educational modeling layer  
 
-### ALCOA Principles
-- **Attributable**  
-- **Legible**  
-- **Contemporaneous**  
-- **Original**  
-- **Accurate**  
-
----
-
-## ⚠️ Access Notice
-
-> The architecture diagrams, Mermaid source files, and supporting documentation referenced in this section are maintained in **private, invite-only repositories**.
->
-> Public access is intentionally restricted to protect:
-> - Pre-commercial intellectual property  
-> - Security and threat-model design  
+> Detailed architecture diagrams, Mermaid source files, ERDs, and implementation notes are maintained in **private, invite-only repositories** to protect:
+> - Pre-commercial IP  
+> - Security and threat models  
 > - Governance and compliance logic  
->
-> **Access is available to recruiters, academic reviewers, and partners upon request.**
+
+**Access is available to recruiters, academic reviewers, and partners upon request.**
 
 ---
 
-## 🔁 Verification & Reproducibility (Upon Access)
+## 🔒 Security, Privacy & Compliance (Design-Aligned)
 
-For authorized reviewers:
+- **HIPAA-informed:** no PHI on-chain  
+- **GDPR-aligned:** data minimization, revocation events  
+- **ALCOA principles:** attributable, legible, contemporaneous, original, accurate  
 
-1. Each architecture PNG has a corresponding Mermaid (`.mmd`) source file  
-2. Mermaid files can be rendered independently to verify fidelity  
-3. Diagrams are traceable across layers (Security, Wearables, Blockchain, AI/Data)
-
-This supports **academic reproducibility**, **governance alignment**, and **documentation integrity**.
+All systems are designed to support **auditability without clinical exposure**.
 
 ---
+
+## 🗄️ Archived & Historical Case Studies
+
+### Anonymous Therapy Prototype  
+Early portfolio artifact exploring privacy-first wellness services and ethical UX.  
+**Status:** Retired / Educational reference only.
+
+### CBD Continuum Retail  
+Applied retail systems case study focused on transparency, COA verification, and product lifecycle integrity.  
+Represents foundational work that informed later digital health infrastructure.
+
+---
+
+## ⭐ Selected Public Contributions
+
+- secure-health-login (wallet authentication, EIP-712 patterns)  
+- openmrs-core (open EHR ecosystem)  
+- duneanalytics/spellbook (on-chain analytics)  
+- ehrbase (open EHR platform)
+
+---
+
+## ⚠️ Notice
+
+This organization showcases **research, prototypes, and portfolio systems**.  
+Nothing here constitutes medical advice, clinical services, or deployed healthcare infrastructure.
+
+---
+
+© 2025 Future Systems Lab  
+All rights reserved. Unlicensed.  
