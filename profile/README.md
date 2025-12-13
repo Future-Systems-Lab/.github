@@ -95,8 +95,7 @@ Future Systems Lab demonstrates applied expertise in:
 A decentralized health and wellness architecture integrating behavioral science, orthomolecular medicine, decentralized identity, wearable biosignals, blockchain audit trails, and secure HL7/FHIR-based data exchange.  
 Showcases full-stack capabilities across UX/UI, AI pipelines, blockchain smart contracts, FHIR parsing, governance, and clinical workflow design — demonstrated in an interactive recruiter dashboard.
 
-### 🔗 **System Dashboard (Figma Prototype — Invite Only)**  
-https://www.figma.com/make/XIMX6irVHhjILelWLctUdW/EncryptHealth-Visualization-Panel
+System Dashboard (Figma Prototype — Available Upon Request)
 
 ---
 
