@@ -300,6 +300,15 @@ https://github.com/Future-Systems-Lab/Future-Systems-Lab/tree/main/contracts
 ## Data Layer ERD
 [data-layer-erd.png](architecture/diagrams/data-layer-erd.png)
 
+> ⚠️ **Access Notice**
+>
+> The architecture diagrams, Mermaid source files, and supporting documentation referenced below are maintained in **private, invite-only repositories**.  
+>  
+> Public access is intentionally restricted to protect pre-commercial IP, security design, and governance logic.  
+>  
+> **Access is available to recruiters, academic reviewers, and partners upon request.**
+
+
 ---
 
 ## Verification & Reproducibility
