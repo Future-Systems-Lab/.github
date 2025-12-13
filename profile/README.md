@@ -161,7 +161,7 @@ NeuroBalance is a conceptual brain-health wearable demonstrating how future syst
 
 ---
 
-## 🧩 HypnoNeuro Modular Framework (L1–L3)  
+## 🧩 Modular Framework (L1–L3)  
 **Category:** Digital Therapeutic Experience Design (Non-Clinical)  
 **Focus:** Experience Architecture • Personalization Logic • Narrative Interaction Models
 
@@ -174,19 +174,6 @@ NeuroBalance is a conceptual brain-health wearable demonstrating how future syst
   - L1 Induction: https://www.youtube.com/watch?v=xsGsPWgjbW4  
   - EJ’s Path: https://www.youtube.com/watch?v=y1kB5UT1ksA  
   - Isiah Narrative: https://drive.google.com/file/d/1JdT6pN2gT5BzjQlCne8z5HilSPJ7vYsu/view
-
----
-
-## 🧪 CBD Continuum Retail  
-**Category:** Applied Retail Systems & Data Integrity  
-**Focus:** Supply Chain Transparency • Product Lifecycle • Analytics & Provenance
-
-### Summary  
-CBD Continuum was Apex, NC’s first CBD retail store, now a complete case study in **regulated transparency**, **COA verification**, and **traceable inventory management**.
-
-### Repositories  
-- https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products  
-- https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products/COAs  
 
 ---
 
@@ -360,4 +347,17 @@ This prototype represents **early-stage work** that informed later systems devel
 
 Repository:  
 https://github.com/Future-Systems-Lab/anonymous-therapy-prototype
+
+## 🧪 CBD Continuum Retail  
+**Category:** Applied Retail Systems & Data Integrity  
+**Focus:** Supply Chain Transparency • Product Lifecycle • Analytics & Provenance
+
+### Summary  
+CBD Continuum was Apex, NC’s first CBD retail store, now a complete case study in **regulated transparency**, **COA verification**, and **traceable inventory management**.
+
+### Repositories  
+- https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products  
+- https://github.com/Future-Systems-Lab/CBD-Continuum-Retail/tree/main/CBD-Products/COAs  
+
+---
 
