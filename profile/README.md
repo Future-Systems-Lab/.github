@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/Future-Systems-Lab?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-Digital_Health-purple" />
+    <img src="https://img.shields.io/badge/Focus-Sovereignty_by_Design-purple" />
   </a>
   <a href="https://github.com/topics/web3">
-    <img src="https://img.shields.io/badge/Tech-Web3_%7C_Applied_AI_%7C_FHIR-blue" />
+    <img src="https://img.shields.io/badge/Tech-Web3_%7C_EIP--191_%7C_IPFS-blue" />
   </a>
   <a href="https://github.com/Future-Systems-Lab?tab=repositories">
-    <img src="https://img.shields.io/badge/Ecosystem-Multi_Module-orange" />
+    <img src="https://img.shields.io/badge/Ecosystem-Decentralized_Infrastructure-orange" />
   </a>
   <a href="https://eth-sepolia.blockscout.com/">
     <img src="https://img.shields.io/badge/Blockchain-Sepolia-lightgrey" />
@@ -23,13 +23,17 @@
 
 ---
 
-## 🧭 About Future Systems Lab
+## About Future Systems Lab
 
-I design and deploy compliance-aware decentralized systems — using regulated mental healthcare as a proving ground for architectures that scale across complex domains. As founder of Future Systems Lab and its ecosystem, I move from concept to production: on-chain deployments, FHIR-aligned consent flows, and governance-aware infrastructure built to HIPAA standards from day one. My background spans naturopathic psychology and blockchain product architecture — I think in systems, across disciplines, at the intersection of governance and user experience.
+I design and deploy decentralized infrastructure for sovereign data governance — using regulated behavioral health as a deliberate proving ground for architectures that scale across complex domains.
+
+As a long-term healthcare practitioner with experience operating HIPAA-compliant practice, I built within compliance frameworks before architecting beyond them. As founder of Future Systems Lab, I move from concept to production: on-chain deployments, EIP-191 wallet-gated consent architecture, and infrastructure designed to operate outside HIPAA scope by holding no PHI — a stronger architectural position than compliance, because the regulation doesn't apply when the system never holds the protected data.
+
+I think in systems, across disciplines, at the intersection of governance and user experience.
 
 ---
 
-## 🔬 Public Repositories
+## Public Repositories
 
 ### [AlchemistForge](https://github.com/Future-Systems-Lab/alchemist-forge)
 **Behavioral smart contract — Jungian shadow integration enforced by code**
@@ -37,41 +41,40 @@ I design and deploy compliance-aware decentralized systems — using regulated m
 `Solidity` `EVM` `Behavioral UX` `Sepolia` `Smart Contract Design`
 
 Deployed and verified on Sepolia. Demonstrates behavioral system design using smart contract architecture — mapping a psychological process to contract state, event emission, and enforced sequencing.
-Featured: America Out Loud — Digital Mental Health Column *(link coming soon)*
 
 ---
 
 ### [Secure Health Login](https://github.com/Future-Systems-Lab/secure-health-login)
-**Wallet-based identity for patients and providers**
+**Wallet-based identity for participants and Sovereign Guides**
 
-`Next.js` `Wagmi v2` `Viem` `MetaMask` `EIP-712` `OIDC` `TypeScript`
+`Next.js` `Viem` `Brave Wallet` `EIP-191` `OIDC` `TypeScript`
 
-Wallet-based authentication and consent patterns using EIP-712 & OIDC standards. Enhances privacy, security, and interoperability across digital health platforms.
+Wallet-based authentication and consent patterns using EIP-191 and OIDC standards. Sovereignty-first access control across decentralized health platforms.
 
 ---
 
-## 📌 Portfolio Overview
+## Portfolio Overview
 
 **Projects & Ecosystem** *(private — details available upon request)*
 
 🧠 **Mental Wellness Ecosystem**
-Tokenized therapeutic engagement platform. Deployed on Sepolia.
+First deployed instance of FSL infrastructure thesis. Tokenized therapeutic engagement platform on Sepolia.
 
-🔒 **Decentralized Health Data Platform**
-Privacy-first consent architecture with DID-based patient data control.
+🔒 **Decentralized Data Governance Platform**
+Wallet-gated consent architecture with participant data sovereignty.
 
-⛓️ **Claims Governance System**
-Blockchain-anchored healthcare claims governance.
+⛓️ **SovereignLedger**
+Session attestation infrastructure — immutable proof that sessions occurred between consenting wallets.
 
 📊 **Pharmacovigilance Analytics**
 Multi-source adverse event data pipeline and visualization research.
 
 ---
 
-## 🛠️ Technical Skills & Standards
+## Technical Skills & Standards
 
-- **Blockchain / Web3:** Solidity, EVM, DID/VCs, OIDC4VP, smart contract auditing
-- **Healthcare Standards:** HL7/FHIR, HIPAA-aligned architecture, OpenMRS
+- **Blockchain / Web3:** Solidity, EVM, DID/VCs, OIDC4VP, EIP-191, EIP-1193, smart contract auditing
+- **Regulation-Aware Architecture:** Systems designed to operate outside HIPAA scope by holding no PHI; OpenMRS (OSS contribution context)
 - **Security & Governance:** Cybersecurity governance, CNCF TAG-Security, Hyperledger Aries, policy-as-code
 - **Data & Analytics:** PostgreSQL, Python, Tableau, RStudio
 - **Product & Architecture:** Full-stack Web3 product strategy, decentralized identity, behavioral UX
@@ -79,16 +82,16 @@ Multi-source adverse event data pipeline and visualization research.
 
 ---
 
-## 💡 Value Proposition
+## Value Proposition
 
 - Production deployments across multiple smart contracts — not prototypes, shipped systems
 - End-to-end ownership: consent → identity → token → analytics → audit trail
-- Translates HIPAA/FHIR/HL7 complexity into deployable decentralized architecture
+- Designs decentralized architecture that sidesteps regulatory burden by never holding the protected data — practitioner credentials inform what NOT to handle
 - Operates at the intersection of product management, clinical knowledge, behavioral science, and blockchain engineering
 
 ---
 
-## 🔒 Access & Repository Policy
+## Access & Repository Policy
 
 Architecture diagrams, Mermaid source files, and supporting documentation are maintained in **private, invite-only repositories** to protect pre-commercial IP, security design, and governance logic.
 
