@@ -31,6 +31,8 @@ As a long-term healthcare practitioner with experience operating HIPAA-compliant
 
 **Nine Ethereum smart contracts deployed and verified on Sepolia. Every FSL system is in production.**
 
+**SovereignSession** (May 2026) — Wallet-native video session infrastructure operating outside HIPAA scope by architectural design. EIP-191 authentication, peer-to-peer WebRTC, self-hosted TURN relay, on-chain session attestation. Phases 1-4 deployed and tested. Sepolia: [`0xbeb13A360C6F0C77Ea3af3650Ab9762a1B9965A1`](https://eth-sepolia.blockscout.com/address/0xbeb13A360C6F0C77Ea3af3650Ab9762a1B9965A1)
+
 **[Academic Reviewer Evidence Portfolio](https://fsl-command-center.vercel.app/reviewer.html)** | **[Full CV](https://future-systems-lab.github.io/Future-Systems-Lab-profile/CV_MegMontanezDavenport.html)**
 
 ---
