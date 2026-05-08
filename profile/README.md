@@ -42,11 +42,18 @@ As a long-term healthcare practitioner with experience operating HIPAA-compliant
 | **[fsl-governance](https://github.com/Future-Systems-Lab/fsl-governance)** | Governance artifacts, specs, audits, contract source, council decisions |
 | **[alchemist-forge](https://github.com/Future-Systems-Lab/alchemist-forge)** | Behavioral smart contract — Jungian shadow integration on-chain |
 | **[fsl-command-center](https://github.com/Future-Systems-Lab/fsl-command-center)** | Wallet-gated admin dashboard + public reviewer surface |
-| **[HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro)** | 45 therapeutic games across 3 progressive levels |
-| **[EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth)** | Wallet-gated consent architecture, participant data sovereignty |
-| **[SovereignLedger](https://github.com/Future-Systems-Lab/SovereignLedger)** | Session attestation — immutable proof of sessions between consenting wallets |
 | **[mental-health-on-chain](https://github.com/Future-Systems-Lab/mental-health-on-chain)** | Public smart contract awareness series — case study documentation |
 | **[open-source-portfolio](https://github.com/Future-Systems-Lab/open-source-portfolio)** | 8 OSS PRs to DIF, OpenZeppelin, Ethereum/EIPs, Hyperledger, Uniswap, Balancer |
+
+### Deployed Platforms
+
+| Platform | URL | Description |
+|---|---|---|
+| **HypnoNeuro** | [hypnoneuro.io](https://hypnoneuro.io) | 45 therapeutic games across 3 progressive levels |
+| **EncryptHealth** | [encrypthealth.io](https://encrypthealth.io) | Wallet-gated consent architecture, participant data sovereignty |
+| **SovereignLedger** | [sovereignledger.io](https://sovereignledger.io) | Session attestation — immutable proof of sessions between consenting wallets |
+
+*Source repositories are selectively public during pre-mainnet phase. Deployed platforms demonstrate full functionality. Pre-publication code review available to reviewers on request via future.systems.lab@proton.me.*
 
 ---
 
