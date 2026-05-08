@@ -70,6 +70,8 @@ As a long-term healthcare practitioner with experience operating HIPAA-compliant
 | **Therapeutic** | 45 games, SovereignSession wallet-native video, AlchemistForge | Live |
 | **Research** | DEng Applied Project for ASU (Oct 2026 priority deadline) | Active |
 
+> **Anonymous by default** — your wallet is a pseudonymous identity, not a payment method. No name, email, or personal data collected. No funds required to interact with FSL infrastructure.
+
 ---
 
 ## Technical Stack
