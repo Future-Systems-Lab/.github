@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Ecosystem-Decentralized_Infrastructure-orange" />
   </a>
   <a href="https://eth-sepolia.blockscout.com/">
-    <img src="https://img.shields.io/badge/Blockchain-Sepolia-lightgrey" />
+    <img src="https://img.shields.io/badge/Contracts-9_on_Sepolia-lightgrey" />
   </a>
 </p>
 
@@ -29,74 +29,56 @@ I design and deploy decentralized infrastructure for sovereign data governance �
 
 As a long-term healthcare practitioner with experience operating HIPAA-compliant practice, I built within compliance frameworks before architecting beyond them. As founder of Future Systems Lab, I move from concept to production: on-chain deployments, EIP-191 wallet-gated consent architecture, and infrastructure designed to operate outside HIPAA scope by holding no PHI — a stronger architectural position than compliance, because the regulation doesn't apply when the system never holds the protected data.
 
-I think in systems, across disciplines, at the intersection of governance and user experience.
+**Nine Ethereum smart contracts deployed and verified on Sepolia. Every FSL system is in production.**
+
+**[Academic Reviewer Evidence Portfolio](https://fsl-command-center.vercel.app/reviewer.html)** | **[Full CV](https://future-systems-lab.github.io/Future-Systems-Lab-profile/CV_MegMontanezDavenport.html)**
 
 ---
 
-## Public Repositories
+## Key Repositories
 
-### [AlchemistForge](https://github.com/Future-Systems-Lab/alchemist-forge)
-**Behavioral smart contract — Jungian shadow integration enforced by code**
-
-`Solidity` `EVM` `Behavioral UX` `Sepolia` `Smart Contract Design`
-
-Deployed and verified on Sepolia. Demonstrates behavioral system design using smart contract architecture — mapping a psychological process to contract state, event emission, and enforced sequencing.
-
----
-
-### [Secure Health Login](https://github.com/Future-Systems-Lab/secure-health-login)
-**Wallet-based identity for participants and Sovereign Guides**
-
-`Next.js` `Viem` `Brave Wallet` `EIP-191` `OIDC` `TypeScript`
-
-Wallet-based authentication and consent patterns using EIP-191 and OIDC standards. Sovereignty-first access control across decentralized health platforms.
+| Repository | Description |
+|---|---|
+| **[fsl-governance](https://github.com/Future-Systems-Lab/fsl-governance)** | Governance artifacts, specs, audits, contract source, council decisions |
+| **[alchemist-forge](https://github.com/Future-Systems-Lab/alchemist-forge)** | Behavioral smart contract — Jungian shadow integration on-chain |
+| **[fsl-command-center](https://github.com/Future-Systems-Lab/fsl-command-center)** | Wallet-gated admin dashboard + public reviewer surface |
+| **[HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro)** | 45 therapeutic games across 3 progressive levels |
+| **[EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth)** | Wallet-gated consent architecture, participant data sovereignty |
+| **[SovereignLedger](https://github.com/Future-Systems-Lab/SovereignLedger)** | Session attestation — immutable proof of sessions between consenting wallets |
+| **[mental-health-on-chain](https://github.com/Future-Systems-Lab/mental-health-on-chain)** | Public smart contract awareness series — case study documentation |
+| **[open-source-portfolio](https://github.com/Future-Systems-Lab/open-source-portfolio)** | 8 OSS PRs to DIF, OpenZeppelin, Ethereum/EIPs, Hyperledger, Uniswap, Balancer |
 
 ---
 
-## Portfolio Overview
+## Six-Layer Architecture
 
-**Projects & Ecosystem** *(private — details available upon request)*
-
-🧠 **Mental Wellness Ecosystem**
-First deployed instance of FSL infrastructure thesis. Tokenized therapeutic engagement platform on Sepolia.
-
-🔒 **Decentralized Data Governance Platform**
-Wallet-gated consent architecture with participant data sovereignty.
-
-⛓️ **SovereignLedger**
-Session attestation infrastructure — immutable proof that sessions occurred between consenting wallets.
-
-📊 **Pharmacovigilance Analytics**
-Multi-source adverse event data pipeline and visualization research.
+| Layer | Component | Status |
+|---|---|---|
+| **Financial** | XRPL payment settlement + HNT/EHT governance tokens | Live |
+| **Identity** | EIP-191 wallet-gated authentication, Brave Wallet primary | Live |
+| **Governance** | SovereignLedger session attestation, BenevolenceFund | Live |
+| **Compliance** | Zero-PHI by design — regulation doesn't apply when system never holds protected data | Live |
+| **Therapeutic** | 45 games, SovereignSession wallet-native video, AlchemistForge | Live |
+| **Research** | DEng Applied Project for ASU (Oct 2026 priority deadline) | Active |
 
 ---
 
-## Technical Skills & Standards
+## Technical Stack
 
-- **Blockchain / Web3:** Solidity, EVM, DID/VCs, OIDC4VP, EIP-191, EIP-1193, smart contract auditing
-- **Regulation-Aware Architecture:** Systems designed to operate outside HIPAA scope by holding no PHI; OpenMRS (OSS contribution context)
-- **Security & Governance:** Cybersecurity governance, CNCF TAG-Security, Hyperledger Aries, policy-as-code
-- **Data & Analytics:** PostgreSQL, Python, Tableau, RStudio
-- **Product & Architecture:** Full-stack Web3 product strategy, decentralized identity, behavioral UX
-- **Internal Tooling:** Proprietary AI-assisted development automation *(internal)*
-
----
-
-## Value Proposition
-
-- Production deployments across multiple smart contracts — not prototypes, shipped systems
-- End-to-end ownership: consent → identity → token → analytics → audit trail
-- Designs decentralized architecture that sidesteps regulatory burden by never holding the protected data — practitioner credentials inform what NOT to handle
-- Operates at the intersection of product management, clinical knowledge, behavioral science, and blockchain engineering
+- **Blockchain / Web3:** Solidity, EVM, EIP-191, EIP-1193, ERC-20/721/1155, Brave Wallet, WalletConnect, XRPL, WebRTC, DID/VCs, IPFS, ZK Proofs
+- **Decentralized Health Architecture:** Sovereign data governance, wallet-native consent, zero-PHI architecture, on-chain session attestation, cross-domain infrastructure
+- **Security & Governance:** CNCF TAG-Security, policy-as-code, SSI/DID consent flows, CISA-aligned audit frameworks
+- **Data & Analytics:** PostgreSQL 17, Python, Tableau, Streamlit
+- **Infrastructure:** Cloudflare Tunnel, coturn (TURN), PM2, Vercel, systemd, SSH Ed25519
 
 ---
 
 ## Access & Repository Policy
 
-Architecture diagrams, Mermaid source files, and supporting documentation are maintained in **private, invite-only repositories** to protect pre-commercial IP, security design, and governance logic.
+Architecture diagrams and system internals are maintained in **private, invite-only repositories** to protect pre-commercial IP and security design.
 
-**Access is available to recruiters, academic reviewers, and partners upon request.**
+**Access available to academic reviewers and partners upon request** — future.systems.lab@proton.me
 
 ---
 
-© Future Systems Lab. All rights reserved. Unlicensed.
+*Sovereignty by Design* | future.systems.lab@proton.me | [LinkedIn](https://www.linkedin.com/in/meg-monta%C3%B1ez-davenport-680652226/)
