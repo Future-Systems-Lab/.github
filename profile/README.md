@@ -1,6 +1,6 @@
 # Future Systems Lab
 
-**SOVEREIGN by Design** — decentralized infrastructure for sovereign data governance, with mental health as the chosen proving ground.
+**SOVEREIGN by Design** — decentralized infrastructure for sovereign data governance
 
 FSL is a Wyoming LLC building the first decentralized Web3 sovereign wellness ecosystem. Live on Ethereum Sepolia, governed and engineered as a structural demonstration of consent-first data architecture.
 
