@@ -22,7 +22,7 @@ FSL is a Wyoming LLC building the first decentralized Web3 sovereign wellness ec
 - **17-agent AI council** running on self-hosted infrastructure
 - **U.S. Provisional Patent No. 64/063,037** filed May 2026 — bilateral consent architecture
 - **Two USPTO trademark applications** filed — Class 42 (in publication) + Class 35
-- **Zero PHI** by architectural design — operates outside HIPAA regulatory scope, not by compliance, but by structural impossibility
+- **Zero PHI by architectural design** — the infrastructure never receives plaintext health data; it operates outside HIPAA scope structurally, not by compliance
 
 ## The doctoral contribution
 
