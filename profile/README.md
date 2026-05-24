@@ -6,16 +6,6 @@ FSL is a Wyoming LLC building the first decentralized Web3 sovereign wellness ec
 
 ---
 
-## What's deployed
-
-| Surface | Description |
-|---|---|
-| [evidence.futuresystemslab.io](https://evidence.futuresystemslab.io) | Doctoral engineering portfolio — thesis framing, architecture, contracts, advisor mapping |
-| [hypnoneuro.io](https://hypnoneuro.io) | Neurotransmitter-organized wellness sessions, wallet-gated, three flagship demos |
-| [alchemistforge.io](https://alchemistforge.io) | Wallet-signed shadow transmutation ledger — Ethereum Sepolia |
-| [futuresystemslab.io](https://futuresystemslab.io) | Marketing surface |
-| [encrypthealth.io](https://encrypthealth.io) | Sovereign wellness platform (Cloudflare-protected) |
-
 ## Engineering footprint
 
 - **Nine smart contracts** live on Ethereum Sepolia testnet
