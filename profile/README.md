@@ -20,16 +20,13 @@ The unsolved engineering problem at the center of this work: a **dual multi-sig 
 
 This is the proposed Doctor of Engineering applied project at Arizona State University.
 
-## Key repositories
+## Open-source contributions
 
-| Repository | Description |
-|---|---|
-| [fsl-governance](https://github.com/Future-Systems-Lab/fsl-governance) | Governance artifacts, specs, audits, contract source, council decisions |
-| [alchemist-forge](https://github.com/Future-Systems-Lab/alchemist-forge) | On-chain shadow integration platform — wallet-signed transmutation ledger |
-| [fsl-command-center](https://github.com/Future-Systems-Lab/fsl-command-center) | FSL ops dashboard — agent orchestration, contracts, deploy status |
-| [bcgov/aries-vcr #811](https://github.com/bcgov/aries-vcr/pull/811) | Healthcare verifiable-credential schema — **merged** |
-| [openmrs/fhir2 #577](https://github.com/openmrs/openmrs-module-fhir2/pull/577) | FHIR CodeableConcept normalization utility + tests — open |
-| [openmrs/fhir2-ig #63](https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/63) | macOS build documentation for FHIR2 IG — open |
+| Repository | PR | Status |
+|---|---|---|
+| [bcgov/aries-vcr](https://github.com/bcgov/aries-vcr/pull/811) | #811 — Healthcare verifiable-credential schema | **Merged** |
+| [openmrs/openmrs-module-fhir2](https://github.com/openmrs/openmrs-module-fhir2/pull/577) | #577 — FHIR CodeableConcept normalization utility + tests | Open |
+| [openmrs/openmrs-contrib-fhir2-ig](https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/63) | #63 — macOS build documentation for FHIR2 IG | Open |
 
 ## Built by
 
