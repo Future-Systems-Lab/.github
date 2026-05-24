@@ -37,7 +37,9 @@ This is the proposed Doctor of Engineering applied project at Arizona State Univ
 | [fsl-governance](https://github.com/Future-Systems-Lab/fsl-governance) | Governance artifacts, specs, audits, contract source, council decisions |
 | [alchemist-forge](https://github.com/Future-Systems-Lab/alchemist-forge) | On-chain shadow integration platform — wallet-signed transmutation ledger |
 | [fsl-command-center](https://github.com/Future-Systems-Lab/fsl-command-center) | FSL ops dashboard — agent orchestration, contracts, deploy status |
-| [open-source-portfolio](https://github.com/Future-Systems-Lab/open-source-portfolio) | 8 OSS PRs to DIF, OpenZeppelin, Ethereum/EIPs, Hyperledger, Uniswap, Balancer |
+| [bcgov/aries-vcr #811](https://github.com/bcgov/aries-vcr/pull/811) | Healthcare verifiable-credential schema — **merged** |
+| [openmrs/fhir2 #577](https://github.com/openmrs/openmrs-module-fhir2/pull/577) | FHIR CodeableConcept normalization utility + tests — open |
+| [openmrs/fhir2-ig #63](https://github.com/openmrs/openmrs-contrib-fhir2-ig/pull/63) | macOS build documentation for FHIR2 IG — open |
 
 ## Built by
 
