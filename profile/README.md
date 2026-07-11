@@ -34,7 +34,8 @@ Proposed Doctor of Engineering applied project at Arizona State University.
 
 ## Intellectual Property
 
-- **U.S. Provisional Patent No. 64/063,037** — filed May 2026, covering the bilateral consent architecture
+- **U.S. Provisional Patent No. 64/063,037** — filed May 2026 — single-signer EIP-191 wallet-signed consent architecture, zero-PHI constraint, Sovereign Guide attestation model. Assigned to Future Systems Lab LLC.
+- **U.S. Provisional Patent No. 64/106,748** — filed July 2026 — bilateral dual-signature consent protocol (EIP-191 + EIP-712), HKDF session-key derivation. Assigned to Future Systems Lab LLC.
 - **USPTO Trademark Serial No. 99533250** — "Future Systems Lab," Class 42, filed December 2025
 - **USPTO Trademark Serial No. 99821948** — "Future Systems Lab," Class 35, filed May 2026
 
@@ -52,6 +53,6 @@ Proposed Doctor of Engineering applied project at Arizona State University.
 
 Weekly contributing author at [America Out Loud](https://www.americaoutloud.news/author/meg-montanez-davenport/)
 
-future.systems.lab@proton.me · [futuresystemslab.io](https://futuresystemslab.io) · [LinkedIn](https://linkedin.com/in/margarita-montañez-davenport-680652226) · ORCID: [0009-0001-4536-3070](https://orcid.org/0009-0001-4536-3070)
+future.systems.lab@proton.me · [futuresystemslab.io](https://futuresystemslab.io) · [LinkedIn](https://linkedin.com/in/margarita-montanez-davenport-680652226) · ORCID: [0009-0001-4536-3070](https://orcid.org/0009-0001-4536-3070)
 
 [View Full CV](https://evidence.futuresystemslab.io/cv)
