@@ -20,7 +20,10 @@ A deployed multi-platform Web3 ecosystem built on wallet-signed consent:
 - **AlchemistForge** — permissionless behavioral health engagement recording
 - **NeuroBalance** — biosensor integration layer (scaffolded)
 
-Four platforms deployed, one scaffolded. Nine smart contracts deployed and verified on Ethereum Sepolia testnet.
+Four platform surfaces on a unified backend (EncryptHealth); HypnoNeuro, SovereignLedger, and AlchemistForge are delivered through encrypthealth.io. One scaffolded (NeuroBalance). 11 smart contracts on Ethereum Sepolia (10 active, 1 superseded).
+
+### Why most repositories here are private
+FSL's platform repositories contain deployment configuration and work covered by two pending U.S. provisional patent applications (64/063,037 and 64/106,748). The evidence portfolio is the public window: every deployed contract address is listed and independently verifiable on Sepolia Blockscout.
 
 ## Architecture
 
@@ -53,6 +56,6 @@ Proposed Doctor of Engineering applied project at Arizona State University.
 
 Weekly contributing author at [America Out Loud](https://www.americaoutloud.news/author/meg-montanez-davenport/)
 
-future.systems.lab@proton.me · [futuresystemslab.io](https://futuresystemslab.io) · [LinkedIn](https://linkedin.com/in/margarita-montanez-davenport-680652226) · ORCID: [0009-0001-4536-3070](https://orcid.org/0009-0001-4536-3070)
+future.systems.lab@proton.me · [futuresystemslab.io](https://futuresystemslab.io) · [LinkedIn](https://www.linkedin.com/in/margarita-monta%C3%B1ez-davenport-680652226/) · ORCID: [0009-0001-4536-3070](https://orcid.org/0009-0001-4536-3070)
 
 [View Full CV](https://evidence.futuresystemslab.io/cv)
