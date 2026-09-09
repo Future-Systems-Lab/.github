@@ -20,14 +20,14 @@ A deployed multi-platform Web3 ecosystem built on wallet-signed consent:
 - **AlchemistForge** — permissionless behavioral health engagement recording
 - **NeuroBalance** — biosensor integration layer (scaffolded)
 
-Four platform surfaces on a unified backend (EncryptHealth); HypnoNeuro, SovereignLedger, and AlchemistForge are delivered through encrypthealth.io. One scaffolded (NeuroBalance). 11 smart contracts on Ethereum Sepolia (10 active, 1 superseded).
+Four platform surfaces on a unified backend (EncryptHealth); HypnoNeuro, SovereignLedger, and AlchemistForge are delivered through encrypthealth.io. One scaffolded (NeuroBalance). 11 smart contracts on Ethereum Sepolia (10 current, 1 superseded).
 
 ### Why most repositories here are private
 FSL's platform repositories contain deployment configuration and work covered by two pending U.S. provisional patent applications (64/063,037 and 64/106,748). The evidence portfolio is the public window: every deployed contract address is listed and independently verifiable on Sepolia Blockscout.
 
 ## Architecture
 
-EIP-191 wallet-signed consent unifies authentication, informed consent, session authorization, and data attribution into a single cryptographic signature event. The system holds zero protected health information by architectural design — outside HIPAA regulatory scope structurally, not by compliance claim. Hybrid on-chain/off-chain data model. Client-side encryption is the focus of ongoing Phase 5 research (not yet deployed).
+EIP-191 wallet-signed consent unifies authentication, informed consent, session authorization, and data attribution into a single cryptographic signature event. The system holds zero protected health information by architectural design — outside HIPAA regulatory scope structurally, not by compliance claim. Hybrid on-chain/off-chain data model. Client-side AES-256-GCM encryption is deployed on the AlchemistForge path; bilateral session-key derivation (Phase 5) is the focus of ongoing research.
 
 ## Research
 
