@@ -12,22 +12,22 @@ Decentralized infrastructure for sovereign data governance, with behavioral heal
 
 ## What FSL Is
 
-A deployed multi-platform Web3 ecosystem built on wallet-signed consent:
+A multi-platform Web3 ecosystem built on wallet-signed consent (Phase 1 deployed; Phases 2–4 scaffolded and specified):
 
 - **EncryptHealth** — sovereign guide portal with EIP-191 authentication
 - **HypnoNeuro** — wellness-engagement platform organized around neurotransmitter systems
-- **SovereignLedger** — on-chain governance and session attestation
+- **SovereignLedger** — session attestation on the Ethereum Sepolia testnet
 - **AlchemistForge** — permissionless behavioral health engagement recording
 - **NeuroBalance** — biosensor integration layer (scaffolded)
 
-Four platform surfaces on a unified backend (EncryptHealth); HypnoNeuro, SovereignLedger, and AlchemistForge are delivered through encrypthealth.io. One scaffolded (NeuroBalance). 11 smart contracts on Ethereum Sepolia (10 current, 1 superseded).
+Four platform surfaces on a unified backend (EncryptHealth); HypnoNeuro, SovereignLedger, and AlchemistForge are delivered through encrypthealth.io. One scaffolded (NeuroBalance). Ten current smart contracts on the Ethereum Sepolia testnet (13 deployed: 10 current, 2 superseded — SovereignLedger v2 and BenevolenceFund v2 — and SovereignLedger v4, awaiting its production switch).
 
 ### Why most repositories here are private
 FSL's platform repositories contain deployment configuration and work covered by two pending U.S. provisional patent applications (64/063,037 and 64/106,748). The evidence portfolio is the public window: every deployed contract address is listed and independently verifiable on Sepolia Blockscout.
 
 ## Architecture
 
-EIP-191 wallet-signed consent unifies authentication, informed consent, session authorization, and data attribution into a single cryptographic signature event. The system holds zero protected health information by architectural design — outside HIPAA regulatory scope structurally, not by compliance claim. Hybrid on-chain/off-chain data model. Client-side AES-256-GCM encryption is deployed on the AlchemistForge path; bilateral session-key derivation (Phase 5) is the focus of ongoing research.
+EIP-191 wallet-signed consent unifies authentication, informed consent, session authorization, and data attribution into a single cryptographic signature event. No protected health information is written on chain, and the platform runs on simulated data. The zero-PHI boundary is an architectural design choice, not a regulatory determination. Hybrid on-chain/off-chain data model. Client-side AES-256-GCM encryption is deployed on the AlchemistForge path; bilateral session-key derivation (Phase 5) is the focus of ongoing research.
 
 ## Research
 
@@ -40,7 +40,7 @@ Proposed Doctor of Engineering applied project at Arizona State University.
 - **U.S. Provisional Patent No. 64/063,037** — filed May 2026 — single-signer EIP-191 wallet-signed consent architecture, zero-PHI constraint, Sovereign Guide attestation model. Assigned to Future Systems Lab LLC.
 - **U.S. Provisional Patent No. 64/106,748** — filed July 2026 — bilateral dual-signature consent protocol (EIP-191 + EIP-712), HKDF session-key derivation. Assigned to Future Systems Lab LLC.
 - **USPTO Trademark Serial No. 99533250** — "Future Systems Lab," Class 42, filed December 2025
-- **USPTO Trademark Serial No. 99821948** — "Future Systems Lab," Class 35, filed May 2026
+- **USPTO Trademark Serial No. 99821948** — "Future Systems Lab," Class 35, filed May 2026, not being pursued
 
 ## Open-Source Contributions
 
